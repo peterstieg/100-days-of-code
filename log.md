@@ -42,3 +42,14 @@ B, Went through Step 4-6 of Sascha Wolter's repository for Amazon Alexa Skills: 
 **Thoughts:** Progress is fun, when it's slow.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 4: January 26th, 2018
+
+**Today's Progress**: 
+A, Went through Challenges 1-27 on [FreeCodeCamp](https://www.freecodecamp.org/peterstieg).
+
+**Thoughts:** Thank God, it's Friday.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
