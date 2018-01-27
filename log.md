@@ -53,3 +53,17 @@ A, Went through Challenges 1-27 on [FreeCodeCamp](https://www.freecodecamp.org/p
 **Thoughts:** Thank God, it's Friday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 5: January 27th, 2018
+
+**Today's Progress**: 
+A, Read @JamesRiall's article on the [FreeCodeCamp Forum](https://forum.freecodecamp.org/t/got-a-job-in-london/169874/3).
+B, Spent 30 minutes with FCC challenges.
+C, Repeated first steps of Sascha Wolter's walk through for Alexa Skills: [skill-sample-nodejs-city-guide](https://github.com/wolter/skill-sample-nodejs-city-guide)
+D, Worked on a Low Poly Portrait of a shot I had a fotostudio take of my in October 2017.
+
+**Thoughts:** This is not going to be over after a hundred days.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
