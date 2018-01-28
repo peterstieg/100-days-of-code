@@ -73,7 +73,7 @@ D, Worked on a Low Poly Portrait of a shot I had a fotostudio take of my in Octo
 ### Day 6: January 28th, 2018
 
 **Today's Progress**: 
-A, Continued the work on a Low Poly Portrait of a shot I am going to use on my personal webpage.
+A, Continued to work on a Low Poly Portrait of a shot I am going to use on my personal webpage.
 B, Spent 30 minutes with FCC challenges.
 C, Signed up for two Alexa workshops in Düsseldorf with Sascha [**Wolter**](https://github.com/wolter).
 
