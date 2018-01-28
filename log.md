@@ -67,3 +67,16 @@ D, Worked on a Low Poly Portrait of a shot I had a fotostudio take of my in Octo
 **Thoughts:** This is not going to be over after a hundred days.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 6: January 28th, 2018
+
+**Today's Progress**: 
+A, Continued the work on a Low Poly Portrait of a shot I am going to use on my personal webpage.
+B, Spent 30 minutes with FCC challenges.
+C, Signed up for two Alexa workshops in Düsseldorf with Sascha [**Wolter**](https://github.com/wolter).
+
+**Thoughts:** Consistency is the key.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
