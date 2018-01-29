@@ -86,8 +86,8 @@ C, Signed up for two Alexa workshops in Düsseldorf with Sascha [**Wolter**](htt
 ### Day 7: January 29th, 2018
 
 **Today's Progress**: 
-A, **Amazon Alexa**: Made some decent progress on the customization of an Alexa Skill you can find on Sascha Wolter's [**Github**](https://github.com/wolter)
-B, Installed **phpMyAdmin** and donated to the project.
+A, **Amazon Alexa**: Made some decent progress on the customization of the city guide Alexa Skill you can find on Sascha Wolter's [**Github**](https://github.com/wolter)
+B, Installed **phpMyAdmin** and donated to the project @phpmya.
 
 **Thoughts:** One hour a day is not going to be sufficient.
 
