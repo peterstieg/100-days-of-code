@@ -112,7 +112,7 @@ B, Went through some challenges on [FreeCodeCamp](https://www.freecodecamp.org/)
 
 **Today's Progress**: 
 A, **Amazon Alexa**: Made it through the skill code and intent handlers of the city guide skill on [**Github**](https://github.com/wolter) and finished customizing a similar skill.
-B, Discovered the use of Math.floor in combination with Math.random thanks to **[codecademy]**(https://www.codecademy.com/en/forum_questions/50c386a4a122749bc1006ca6) and **[mozilla]**(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+B, Discovered the use of Math.floor in combination with Math.random thanks to [**codecademy**](https://www.codecademy.com/en/forum_questions/50c386a4a122749bc1006ca6) and [**mozilla**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
 
 **Thoughts:** The early bird catches the worm.
 
