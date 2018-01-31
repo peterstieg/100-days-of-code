@@ -98,10 +98,23 @@ B, Installed **phpMyAdmin** and donated to the project @phpmya.
 ### Day 8: January 30th, 2018
 
 **Today's Progress**: 
-A, Worked on the connection of a **MySQL-Database in php 7**.
+A, Worked on the connection of a **MySQL-Database in php 7**. Without success so far.
 B, **Amazon Alexa**: Made some decent progress on the customization of the city guide Alexa Skill you can find on Sascha Wolter's [**Github**](https://github.com/wolter) but almost fell asleep, so I
 B, Went through some challenges on [FreeCodeCamp](https://www.freecodecamp.org/)
 
-**Thoughts:** The harder the battle, the sweeter the victory
+**Thoughts:** The harder the battle, the sweeter the victory.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 9: January 31st, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Made it through the skill code and intent handlers of the city guide skill on [**Github**](https://github.com/wolter) and finished customizing a similar skill.
+B, Discovered the use of Math.floor in combination with Math.random thanks to **[codecademy]**(https://www.codecademy.com/en/forum_questions/50c386a4a122749bc1006ca6) and **[mozilla]**(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+
+**Thoughts:** The early bird catches the worm.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
