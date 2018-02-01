@@ -118,3 +118,17 @@ B, Discovered the use of Math.floor in combination with Math.random thanks to [*
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 10: February 1st, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Tested and tweaked a skill similar Sascha Wolter's Düsseldorf City Guide [**Github**](https://github.com/wolter).
+B, **DynamoDB**: Started looking into Amazon's [**DynamoDB**](https://eu-west-1.console.aws.amazon.com/dynamodb/).
+
+**Thoughts:** Slooow prgrss today.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
