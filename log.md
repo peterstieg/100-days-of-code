@@ -132,3 +132,13 @@ B, **DynamoDB**: Started looking into Amazon's [**DynamoDB**](https://eu-west-1.
 
 
 
+
+### Day 11: February 2nd, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Amazon Alexa: Started to go through the official documentation and on [**http://www.wolter.biz/**](http://www.wolter.biz/).
+B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Media Mining in Italian.
+
+**Thoughts:** I need more reading days.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
