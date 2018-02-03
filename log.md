@@ -142,3 +142,16 @@ B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Med
 **Thoughts:** I need more reading days.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+
+### Day 12: February 2nd, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Read about the sexism issues with female voice assistants like Amazon Alexa, Apple Siri, Google Home and Microsoft Cortana in the German newspaper [Frankfurter Allgemeine Zeitung](http://www.faz.net/aktuell/feuilleton/medien/alexa-ist-jetzt-feministin-echo-wurde-umprogrammiert-15429673.html).
+B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Media Mining in Italian.
+
+**Thoughts:** Labor omnia vincit.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
