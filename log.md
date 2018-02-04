@@ -155,3 +155,15 @@ B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Med
 **Thoughts:** Labor omnia vincit.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 12: February 2nd, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp 1**: Focused on going through [FCC Challenges](http://www.freecodecamp.org).
+B, **FreeCodeCamp 2**: Set up a monthly donation to support the project and Quincy Larson.
+
+**Thoughts:** Homo faber fortunae suae.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
