@@ -146,7 +146,7 @@ B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Med
 
 
 
-### Day 12: February 2nd, 2018
+### Day 12: February 3rd, 2018
 
 **Today's Progress**: 
 A, **Amazon Alexa**: Read about the sexism issues with female voice assistants like Amazon Alexa, Apple Siri, Google Home and Microsoft Cortana in the German newspaper [Frankfurter Allgemeine Zeitung](http://www.faz.net/aktuell/feuilleton/medien/alexa-ist-jetzt-feministin-echo-wurde-umprogrammiert-15429673.html).
@@ -158,7 +158,7 @@ B, **Social Media Mining**: Continued reading Roberto Marmo's book on Social Med
 
 
 
-### Day 12: February 2nd, 2018
+### Day 13: February 4th, 2018
 
 **Today's Progress**: 
 A, **FreeCodeCamp 1**: Focused on going through [FCC Challenges](http://www.freecodecamp.org).
