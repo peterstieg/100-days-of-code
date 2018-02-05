@@ -167,3 +167,18 @@ B, **FreeCodeCamp 2**: Set up a monthly donation to support the project and Quin
 **Thoughts:** Homo faber fortunae suae.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 14: February 5th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp 1**: Focused on going through [FCC Challenges](http://www.freecodecamp.org).
+B, **#CSS**: Started to understand cascading style sheets thanks to [Alison Yoon](https://twitter.com/aliyooncreative).
+C, **#Bootstrap**: Noticed that I already worked with the library when releasing [www.KiteProgressRoma.it](https://www.KiteProgressRoma.it)
+
+**Thoughts:** Get up and grind.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+https://twitter.com/aliyooncreative
