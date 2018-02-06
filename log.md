@@ -188,6 +188,7 @@ C, **#Bootstrap**: Noticed that I already worked with the library when releasing
 **Today's Progress**: 
 A, **FreeCodeCamp**: Focused on going through [FCC Challenges](http://www.freecodecamp.org).
 B, **General Knowledge**: Read through the Wikipedia articles on [jQuery](https://en.wikipedia.org/wiki/JQuery), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) and [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) 
+C, **Amazon Alexa**: Started reading "Designing Voice User Interfaces" by Cathy Pearl, #vui
 
 **Thoughts:** The bigger the dream the harder the grind.
 
