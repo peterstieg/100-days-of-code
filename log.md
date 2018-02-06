@@ -181,4 +181,14 @@ C, **#Bootstrap**: Noticed that I already worked with the library when releasing
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
-https://twitter.com/aliyooncreative
+
+
+### Day 15: February 6th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Focused on going through [FCC Challenges](http://www.freecodecamp.org).
+B, **General Knowledge**: Read through the Wikipedia articles on [jQuery](https://en.wikipedia.org/wiki/JQuery), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) and [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) 
+
+**Thoughts:** The bigger the dream the harder the grind.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
