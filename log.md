@@ -193,3 +193,15 @@ C, **Amazon Alexa**: Started reading "Designing Voice User Interfaces" by Cathy 
 **Thoughts:** The bigger the dream the harder the grind.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 16: February 7th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Finished the jQuery challenges and moved on the the Tribute Page on [FreeCodeCamp](http://www.freecodecamp.org).
+B, **Amazon Alexa**: Continued reading the official documentation and linked articles on [**http://www.wolter.biz/**](http://www.wolter.biz/).
+
+**Thoughts:** Never settle.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
