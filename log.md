@@ -199,7 +199,7 @@ C, **Amazon Alexa**: Started reading "Designing Voice User Interfaces" by Cathy 
 ### Day 16: February 7th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Finished the jQuery challenges and moved on the the Tribute Page on [FreeCodeCamp](http://www.freecodecamp.org).
+A, **FreeCodeCamp**: Finished the jQuery challenges and moved on to the Tribute Page on [FreeCodeCamp](http://www.freecodecamp.org).
 B, **Amazon Alexa**: Continued reading the official documentation and linked articles on [**http://www.wolter.biz/**](http://www.wolter.biz/).
 
 **Thoughts:** Never settle.
