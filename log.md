@@ -205,3 +205,19 @@ B, **Amazon Alexa**: Continued reading the official documentation and linked art
 **Thoughts:** Never settle.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+
+
+
+### Day 17: February 8th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Continued to work on the [Tribute Page for Tiziano Terzani](https://codepen.io/peterstieg/pen/KrRPOR).
+B, **CSS**: Looked into advanced examples of cascading style sheets, like David Khourshid's CSS-only cubepack.
+C, **Twitter**: Started to understand Twitter, its features and usefulness thanks to the commitment to learning.
+
+**Thoughts:** Sleep is the best meditation.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
