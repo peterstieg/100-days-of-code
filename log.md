@@ -208,9 +208,6 @@ B, **Amazon Alexa**: Continued reading the official documentation and linked art
 
 
 
-
-
-
 ### Day 17: February 8th, 2018
 
 **Today's Progress**: 
@@ -219,5 +216,17 @@ B, **CSS**: Looked into advanced examples of cascading style sheets, like David 
 C, **Twitter**: Started to understand Twitter, its features and usefulness thanks to the commitment to learning.
 
 **Thoughts:** Sleep is the best meditation.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 18: February 9th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Watched a [webinar](https://register.gotowebinar.com/register/3125052127936238850) on multimodal skills.
+B, **Data Mining**: Continued reading Roberto Marmo's book on Social Media Mining.
+
+**Thoughts:** I still need more reading days.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
