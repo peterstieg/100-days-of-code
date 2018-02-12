@@ -234,12 +234,23 @@ B, **Data Mining**: Continued reading Roberto Marmo's book on Social Media Minin
 
 
 
-### Day 19: February 9th, 2018
+### Day 19: February 11th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Decided to change my [Tribute Page](https://codepen.io/peterstieg/pen/KrRPOR) and use content on the guitar player Estas Tonne after stumbling across @httpspauline's codepen on Nujabes and @ChrisVomRhein's JS Drumkit .
+A, **FreeCodeCamp**: Decided to change my [Tribute Page](https://codepen.io/peterstieg/pen/KrRPOR) and use content on the guitar player Estas Tonne after stumbling across @httpspauline's codepen on Nujabes and @ChrisVomRhein's JS Drumkit.
 B, **Bootstrap**: Read the complete documentation of the web's most popular front-end component library. Fell in love with its features, e.g. support for screen reader and other assistive technologies, #sr-only
 
 **Thoughts:** Feather. Internal Flight.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 20: February 12th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Worked on content and bootstrap layout of the [Tribute Page](https://codepen.io/peterstieg/pen/KrRPOR) for guitar player Estas Tonne.
+
+**Thoughts:** Long and winding road.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
