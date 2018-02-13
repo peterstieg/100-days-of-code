@@ -254,3 +254,15 @@ A, **FreeCodeCamp**: Worked on content and bootstrap layout of the [Tribute Page
 **Thoughts:** Long and winding road.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 21: February 13th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Made progress with the layout of the tribute page on [**CodePen**](https://codepen.io/peterstieg/pen/KrRPOR) and tried to install Bootstrap locally with [**codecademy**](https://www.codecademy.com/articles/bootstrap)'s help.
+B, **#Flexbox**: Started reading Chris Coyier's guide on the topic.
+
+**Thoughts:** Easier said than done.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
