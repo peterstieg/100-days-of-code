@@ -273,7 +273,7 @@ B, **#Flexbox**: Started reading Chris Coyier's guide on the topic.
 
 **Today's Progress**: 
 A, **FreeCodeCamp**:  Had to #learn the hard way the differences between filling out blanks with cut-copy-paste and writing bootstrap from 0. Feeling like a true #codenewbie today.
-B, **Basics**: Read [**Cleaner Code for Junior Developers by Jay Gould](https://medium.com/@jaygould_10234/cleaner-code-for-junior-developers-ba00b6dd2913).
+B, **Basics**: Read [**Cleaner Code for Junior Developers by Jay Gould**](https://medium.com/@jaygould_10234/cleaner-code-for-junior-developers-ba00b6dd2913).
  
 **Thoughts:** Much easier said than done.
 
