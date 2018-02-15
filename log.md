@@ -278,3 +278,15 @@ B, **Basics**: Read [**Cleaner Code for Junior Developers by Jay Gould**](https:
 **Thoughts:** Much easier said than done.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 23: February 15th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Added a Navbar and Card classes to the Tribute Page on Estas Tonne.
+B, **Google Sheets**: Learned how to use Arrays, ImportRange and Query in order to aggregate reports from multiple sources.
+ 
+**Thoughts:** Baby steps.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
