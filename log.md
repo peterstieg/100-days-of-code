@@ -290,3 +290,16 @@ B, **Google Sheets**: Learned how to use Arrays, ImportRange and Query in order 
 **Thoughts:** Baby steps.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 24: February 16th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Refactored the Tribute Page on Estas Tonne in order to be able to understand and expand its content more easily.
+B, **Bootstrap**: Found a nice cheatsheet by Jacob Lett on the BootstrapCreative website.
+C, **W3.CSS**: Discovered the framework thanks to Sobol Aleksandr and decided to use it for a my Portfolio Page on GitHub.
+ 
+**Thoughts:** Baby start crawling. Some day.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
