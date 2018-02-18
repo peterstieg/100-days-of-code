@@ -314,3 +314,15 @@ C, **Designing Voice User Interfaces** by Cathy Pearl
 **Thoughts:** Baby steps to success.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 26: February 18th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Finished the Tribute Page for Estas Tonne with images taken from and links pointing to bilderfabrik fiktion plus, Bandcamp and YouTube.
+B, **Flexbox**: Read the introduction that Jacob recommended. 
+ 
+**Thoughts:** Baby steps to success.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
