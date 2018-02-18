@@ -300,6 +300,17 @@ A, **FreeCodeCamp**: Refactored the Tribute Page on Estas Tonne in order to be a
 B, **Bootstrap**: Found a nice cheatsheet by Jacob Lett on the BootstrapCreative website.
 C, **W3.CSS**: Discovered the framework thanks to Sobol Aleksandr and decided to use it for a my Portfolio Page on GitHub.
  
-**Thoughts:** Baby start crawling. Some day.
+**Thoughts:** Babys start crawling. Some day.
+
+
+### Day 25: February 17th, 2018
+
+**Today's Progress**: 
+I am going to spend a lovely evening reading
+A, **#PHP and MySQL** thanks to Roberto Usai
+B, **Social Media Mining** by Roberto Marmo
+C, **Designing Voice User Interfaces** by Cathy Pearl
+ 
+**Thoughts:** Baby steps to success.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
