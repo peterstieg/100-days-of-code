@@ -344,7 +344,7 @@ B, **#Bootstrap**: Looked in the docs for a solution for #verticalAlignment. Bum
 ### Day 28: February 19th, 2018
 
 **Today's Progress**: 
-A, **OAuth and Auth0**: Discovered @Auth0 thanks to @codeStringham. Started to read on the subject. Saved @nodebotanist's webinar on #OAuth for later today, https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/
+A, **OAuth and Auth0**: Discovered @Auth0 thanks to @codeStringham. Started to read on the subject. Saved [@nodebotanist's webinar on #OAuth](https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/) for later today.
 B, **Github**: Setup a repository for a Portfolio Page I intend to build with W3.CSS on Github.io and Bootstrap on Codepen.
 C, **PHP**: Went back to do some easy on challenges on [PHP-Einfach.de](http://www.php-einfach.de/php-tutorial/). Thx to @DimiHendrix1
 
