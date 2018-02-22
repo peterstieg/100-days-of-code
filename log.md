@@ -369,9 +369,9 @@ B, **Amazon Alexa**: Continued reading "Designing #VoiceUserInterfaces" by Cathy
 ### Day 30: February 22th, 2018
 
 **Today's Progress**: 
-A, **GitHub**: Read José M. Pérez' [**How to use SVG as a Placeholder, and Other Image Loading Techniques on Medium**](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c). The most interesting, informative, useful and best written articles I have read so far in 2018.
+A, **GitHub**: Read José M. Pérez' [**How to use SVG as a Placeholder, and Other Image Loading Techniques on Medium**](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c). The most interesting, informative, useful and best written article I have read so far in 2018.
 B, **Follow Up**: Researched fogleman's Primitive image filter, SVG, SVGO and Node.JS to better understand Pérez article (see A).  
-C, **Wikipedia 2**: Set up a monthly donation to support the project, Jimmy Wales and Katherine Maher.
+C, **Wikipedia**: Set up a monthly donation to support the project, Jimmy Wales and Katherine Maher.
 
 **Thoughts:** Thank you.
 
