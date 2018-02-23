@@ -378,3 +378,13 @@ C, **Wikipedia**: Set up a monthly donation to support the project, Jimmy Wales 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
 
+
+### Day 31: February 23rd, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Continued reading the W3.CSS documentation for an alternative version of the tribute page.
+B, **PrimitivePic**: Went through the (README.md)[https://github.com/fogleman/primitive].
+
+**Thoughts:** So much work to do.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
