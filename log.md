@@ -233,6 +233,16 @@ B, **Data Mining**: Continued reading Roberto Marmo's book on Social Media Minin
 
 
 
+### DayOff1: February 10th, 2018
+
+**Today's Progress**: 
+After moving from Italy to Germany in early October 2017 I took a day off from the **100DaysOfCode** challenge to dedicate the Saturday to furnishing the appartment. Wardrobes seem to be useful after all.
+
+**Thoughts:** Thank you IKEA.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
 
 ### Day 19: February 11th, 2018
 
@@ -386,5 +396,16 @@ A, **FreeCodeCamp**: Continued reading the W3.CSS documentation for an alternati
 B, **PrimitivePic**: Went through the (README.md)[https://github.com/fogleman/primitive].
 
 **Thoughts:** So much work to do.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### DayOff2: February 10th, 2018
+
+**Today's Progress**: 
+Before going on a business trip for two Amazon Alexa workshops in Düsseldorf early next week I took off a day off from the **100DaysOfCode** challenge to dedicate time to my wife. Families are forever.
+
+**Thoughts:** One step back, two steps forward.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
