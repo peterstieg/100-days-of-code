@@ -404,7 +404,7 @@ B, **PrimitivePic**: Went through the (README.md)[https://github.com/fogleman/pr
 ### DayOff2: February 10th, 2018
 
 **Today's Progress**: 
-Before going on a business trip for two Amazon Alexa workshops in Düsseldorf early next week I took off a day off from the **100DaysOfCode** challenge to dedicate time to my wife. Families are forever.
+Before going on a business trip for two Amazon Alexa workshops in Düsseldorf early next week I took a day off from the **100DaysOfCode** challenge to dedicate time to my wife. Families are forever.
 
 **Thoughts:** One step back, two steps forward.
 
