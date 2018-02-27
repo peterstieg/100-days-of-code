@@ -409,3 +409,37 @@ Before going on a business trip for two Amazon Alexa workshops in Düsseldorf ea
 **Thoughts:** One step back, two steps forward.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 32: February 25th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Continued reading "Designing Voice User Interfaces - Principles of Conversational Experiences" while traveling.
+
+**Thoughts:** Business Trip Day 1/5.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 33: February 26th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Getting a better understanding of Amazon Alexa and AWS' Lambda thanks to @saschawolter's workshop for beginners.
+
+**Thoughts:** Business Trip Day 2/5.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 34: February 27th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Thanks to @saschawolter for doing a great job explaining IntentHandler, IntentState, dialog management, localization and persistence at the Advanced Workshop for Amazon Alexa developers in Düsseldorf.
+
+**Thoughts:** Business Trip Day 3/5.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
