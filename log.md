@@ -443,3 +443,15 @@ A, **Amazon Alexa**: Thanks to @saschawolter for doing a great job explaining In
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 35: February 28th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Continued working on the Portfolio Page.
+B, **Bootstrap**: Started getting into the details of the navbar classes.
+
+**Thoughts:** The calm before the storm.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
