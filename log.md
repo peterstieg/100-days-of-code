@@ -455,3 +455,47 @@ B, **Bootstrap**: Started getting into the details of the navbar classes.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 36: March 1st, 2018
+
+**Today's Progress**: 
+A, **Data Mining**: Continued reading Roberto Marmo's book on Social Media Mining while traveling to a conference.
+
+**Thoughts:** Business Trip Day 4/5.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 37: March 2nd, 2018
+
+**Today's Progress**: 
+A, **Data Mining**: Continued reading Roberto Marmo's book on Social Media Mining while traveling back home from a conference. Turns out #OAuth is going to be an essential part of all future Data, Coding or Advertising projects.
+
+**Thoughts:** Business Trip Day 5/5.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 38: March 3rd, 2018
+
+**Today's Progress**: 
+A, **Data Mining**: Continued reading Social Media Mining by Roberto Marmo: Garbage in. Garbage out.
+
+**Thoughts:** Changeover.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 39: March 4th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Recapped the information on the cloud-based voice service that was given during the Beginner Workshops in Leipzig and Düsseldorf. Followed-up on some research, e.g. Donald A. Norman's "The design of everyday things", http://wireframe.vn/books/Design%20Of%20Everyday%20Things.pdf
+
+**Thoughts:** After Math 1.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
