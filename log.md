@@ -495,7 +495,18 @@ A, **Data Mining**: Continued reading Social Media Mining by Roberto Marmo: Garb
 **Today's Progress**: 
 A, **Amazon Alexa**: Recapped the information on the cloud-based voice service that was given during the Beginner Workshops in Leipzig and Düsseldorf. Followed-up on some research, e.g. Donald A. Norman's "The design of everyday things", http://wireframe.vn/books/Design%20Of%20Everyday%20Things.pdf
 
-**Thoughts:** After Math 1.
+**Thoughts:** Aftermath 1.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 40: March 5th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: I started to summarize, structure & research the technologies and topics that Sascha Wolter covered during the Advanced Workshop on Amazon Alexa in Düsseldorf.
+
+**Thoughts:** Aftermath 2.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
