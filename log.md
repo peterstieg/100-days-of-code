@@ -490,7 +490,7 @@ A, **Data Mining**: Continued reading Social Media Mining by Roberto Marmo: Garb
 
 
 
-### Day 39: March 4th, 2018
+### Day 39: March 5th, 2018
 
 **Today's Progress**: 
 A, **Amazon Alexa**: Recapped the information on the cloud-based voice service that was given during the Beginner Workshops in Leipzig and Düsseldorf. Followed-up on some research, e.g. Donald A. Norman's "The design of everyday things", http://wireframe.vn/books/Design%20Of%20Everyday%20Things.pdf
@@ -501,12 +501,25 @@ A, **Amazon Alexa**: Recapped the information on the cloud-based voice service t
 
 
 
-### Day 40: March 5th, 2018
+### Day 40: March 6th, 2018
 
 **Today's Progress**: 
 A, **Amazon Alexa**: I started to summarize, structure & research the technologies and topics that Sascha Wolter covered during the Advanced Workshop on Amazon Alexa in Düsseldorf.
 
 **Thoughts:** Aftermath 2.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 41: March 7th, 2018
+
+**Today's Progress**: 
+A, **Amazon Alexa**: Finished summarizing the workshop in Leipzig and Düsseldorf.
+B, **Visual Studio Code**: Installed Brad Gashler's htmltagwrapper which makes coding smoother.
+C, **FreeCodeCamp**: Finished the Portfolio Page on CodePen.
+
+**Thoughts:** Back on track.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
