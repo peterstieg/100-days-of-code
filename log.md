@@ -531,3 +531,16 @@ C, **FreeCodeCamp**: Finished the Portfolio Page on CodePen.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 43: March 8th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Started going through the basic JavaScript code challenges.
+B, **Coding**: Found out about Prefix and Postfix thanks to [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_()).
+C, **Google Scripts**: Tried to use the Knowledge Graph API for translations.
+
+**Thoughts:** Rocking away.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
