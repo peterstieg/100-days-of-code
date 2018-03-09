@@ -544,3 +544,17 @@ C, **Google Scripts**: Tried to use the Knowledge Graph API for translations.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+
+
+
+### Day 44: March 9th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Continued going through the basic JavaScript code challenges.
+B, **Coding**: Finally researched and understood multidimensional arrays, global and local variables and - last but not - the RETURN function after using them haphazardly for years. Thank you FreeCodeCamp.
+
+**Thoughts:** Trust the process.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
