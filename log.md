@@ -553,7 +553,7 @@ C, **Google Scripts**: Tried to use the Knowledge Graph API for translations.
 
 **Today's Progress**: 
 A, **FreeCodeCamp**: Continued going through the basic JavaScript code challenges.
-B, **Coding**: Finally researched and understood multidimensional arrays, global and local variables and - last but not - the RETURN function after using them haphazardly for years. Thank you FreeCodeCamp.
+B, **Coding**: Finally researched and understood multidimensional arrays, global and local variables and - last but not least - the RETURN function after using them haphazardly for years. Thank you FreeCodeCamp!
 
 **Thoughts:** Trust the process.
 
