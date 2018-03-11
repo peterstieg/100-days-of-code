@@ -558,3 +558,14 @@ B, **Coding**: Finally researched and understood multidimensional arrays, global
 **Thoughts:** Trust the process.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 45: March 11th, 2018
+
+**Today's Progress**: 
+A, **#FreeCodeCamp**: Continued going through the #JavaScript code challenges understanding the importance of logic and getting the basics right.
+
+**Thoughts:** Trust myself.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
