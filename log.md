@@ -564,8 +564,20 @@ B, **Coding**: Finally researched and understood multidimensional arrays, global
 ### Day 45: March 11th, 2018
 
 **Today's Progress**: 
-A, **#FreeCodeCamp**: Continued going through the #JavaScript code challenges understanding the importance of logic and getting the basics right.
+A, **FreeCodeCamp**: Continued going through the JavaScript code challenges understanding the importance of logic and getting the basics right.
 
 **Thoughts:** Trust myself.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 46: March 12th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Still enjoying the JavaScript code challenges in form of SWITCH today. Discovered an equivalent function for Microsoft Excel as well as CHOOSE which are going to accelerate work in the office.
+B, **Inkscape**: Finished the logo design for my future web page.
+
+**Thoughts:** Thank God it's Monday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
