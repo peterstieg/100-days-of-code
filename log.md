@@ -581,3 +581,17 @@ B, **Inkscape**: Finished the logo design for my future web page.
 **Thoughts:** Thank God it's Monday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 47: March 13th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Working continuously on JavaScript code challenges transforming IFTTT functions in SWITCHES and vice versa.
+
+**Thoughts:** Doubt.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
