@@ -587,7 +587,7 @@ B, **Inkscape**: Finished the logo design for my future web page.
 ### Day 47: March 13th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Working continuously on JavaScript code challenges transforming IFTTT functions in SWITCHES and vice versa.
+A, **FreeCodeCamp**: I continue to work on JavaScript Code Challenges transforming IFTTT functions in SWITCHES and vice versa getting that Code Newbie feeling||frustration once again.
 
 **Thoughts:** Doubt.
 
@@ -595,3 +595,11 @@ A, **FreeCodeCamp**: Working continuously on JavaScript code challenges transfor
 
 
 
+### Day 48: March 14th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Had a great time this morning with JavaScript objects, Dot and Bracket annotation as well as Lookups through variables.
+
+**Thoughts:** Superficiality is lethal.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
