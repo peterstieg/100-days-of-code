@@ -603,3 +603,16 @@ A, **FreeCodeCamp**: Had a great time this morning with JavaScript objects, Dot 
 **Thoughts:** Superficiality is lethal.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+
+### Day 49: March 15th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp 1**: That moment of epiphany when you are testing JavaScript objects for properties with a variable and add a switch without an error message.
+B, **FreeCodeCamp 2**: Finally got to [JavaScript Object Notation](http://www.json.org/) and For Loops of the Front End Development Certification.
+
+**Thoughts:** Not a piece of cake.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
