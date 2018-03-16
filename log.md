@@ -616,3 +616,16 @@ B, **FreeCodeCamp 2**: Finally got to [JavaScript Object Notation](http://www.js
 **Thoughts:** Not a piece of cake.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 50: March 16th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Worked for hours on an array of objects with a switch and for loop for the Profile Lookup Challenge but haven't figured it out yet. 
+
+Can't wait to wrap my head around it. Awfully early tomorrow morning.
+
+**Thoughts:** Totally not a piece of cake.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
