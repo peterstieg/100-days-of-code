@@ -629,3 +629,15 @@ Can't wait to wrap my head around it. Awfully early tomorrow morning.
 **Thoughts:** Totally not a piece of cake.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 51: March 19th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Finished the Profile Lookup challenge after another hour of attempts due to the wrong approach: SWITCH vs IF.
+B, **SVG**: Watched Sarah Drasner's [video **"SVG can do that?"**](https://www.youtube.com/watch?v=4laPOtTRteI&t=645s) on the capabilities of scalable vector graphics beyond logo design.
+
+**Thoughts:** The Aha-Moment.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
