@@ -641,3 +641,15 @@ B, **SVG**: Watched Sarah Drasner's [video **"SVG can do that?"**](https://www.y
 **Thoughts:** The Aha-Moment.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 52: March 20th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp (new)**: Had fun this morning with Math.random(), Math.floor() and RegEx.
+B, **FCC (old)**: Went back to the Profile Lookup Challenge to implement SWITCH instead of IF/ELSE. Figured out a number of subjects I did not fully grasp: object annotation vs argument, break vs return.
+
+**Thoughts:** The Aha-Moment is lasting.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
