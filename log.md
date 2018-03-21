@@ -653,3 +653,17 @@ B, **FCC (old)**: Went back to the Profile Lookup Challenge to implement SWITCH 
 **Thoughts:** The Aha-Moment is lasting.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+
+### Day 53: March 20th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp (new)**: Finally got Object Oriented and Functional Programming with constructors.
+ THIS.wasFun!
+B, **FCC (old)**: Still working on the Profile Lookup with some help from the console.log.
+
+**Thoughts:** Seriously having fun.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
