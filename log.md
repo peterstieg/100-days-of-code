@@ -657,12 +657,24 @@ B, **FCC (old)**: Went back to the Profile Lookup Challenge to implement SWITCH 
 
 
 
-### Day 53: March 21th, 2018
+### Day 53: March 21st, 2018
 
 **Today's Progress**: 
 A, **FreeCodeCamp (new)**: Finally got Object Oriented and Functional Programming with constructors, properties and methods. THIS.wasFun! 
 B, **FCC (old)**: Still working on the Profile Lookup with some help from the console.log. I will get this.
 
 **Thoughts:** Seriously having fun.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 54: March 22nd, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp (new)**: Continued to go through the Object Oriented and Functional Programming challenges. Generally it feels like console.log is becoming my best friend.
+B, **FCC (old)**: I put the Profile Lookup with SWITCH in standby.
+
+**Thoughts:** Still having fun.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
