@@ -678,3 +678,15 @@ B, **FCC (old)**: I put the Profile Lookup with SWITCH in standby.
 **Thoughts:** Still having fun.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 55: March 23rd, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Started with the Basic Algorithm Scripting reading into the details of a propery on https://developer.mozilla.org/.
+B, [**MDN Web Docs**](https://developer.mozilla.org/): I am grateful for the free resources on web development.
+
+**Thoughts:** Let's see.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
