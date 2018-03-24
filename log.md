@@ -696,7 +696,7 @@ B, [**MDN Web Docs**](https://developer.mozilla.org/): I am grateful for the fre
 ### Day 56: March 24th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Continued the Basic Algorithm Scripting challenges paying attention to each properties' details.
+A, **FreeCodeCamp**: Continued to work on the Basic Algorithm Scripting challenges paying attention to each properties' details.
 
 **Thoughts:** Still seeing.
 
