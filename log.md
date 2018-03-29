@@ -701,3 +701,60 @@ A, **FreeCodeCamp**: Continued to work on the Basic Algorithm Scripting challeng
 **Thoughts:** Still seeing.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 57: March 25th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Busy with the Palindrom challenge of the Basic Algorithm Scripting. Got sucked in by http://www.rexegg.com/  while deep-diving into #RegEx.
+
+**Thoughts:** Bad habit of not using GitHub starts here.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 58: March 26th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Almost done with the Palindrome challenge of the Basic Algorithm Scripting thanks to toLowerCase, replace, split and reverse. Continued the #RegularExpression deep-dive on https://www.regular-expressions.info/ 
+
+**Thoughts:** Bad habit of not using GitHub goes on for another day.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 59: March 27th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Continued the Palindrome challenge of the Basic Algorithm Scripting. Only cases that are not working at this moment contain underscores.
+
+**Thoughts:** Bad habit of not using GitHub goes on for yet another day.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 60: March 28th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp 1**: Solved the Palindrome challenge of the Basic Algorithm Scripting today which @rberetta83 talked about a year or two ago.
+B, **FreeCodeCamp 2**:  Found the longest word in a string, but the output is not yet an integer.
+
+**Thoughts:** Bad habit of not using GitHub stops here.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 61: March 28th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Found the longest word in a string but got stuck by the surprising complications of creating a title in ProperCase with JavaScript.
+B, **Google Apps Scripts**: Started considering to shift parts of my learning hours to Google's cloud scripting language.
+
+**Thoughts:** My coding is clumsy but functional. When it finally works.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
