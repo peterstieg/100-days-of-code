@@ -758,3 +758,14 @@ B, **Google Apps Scripts**: Started considering to shift parts of my learning ho
 **Thoughts:** My coding is clumsy but functional. When it finally works.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 62: April 3rd, 2018
+
+**Today's Progress**: 
+A, **Go**: Installed the **Go** server to apply Michael Fogleman's [**Primitive** image filter](https://primitive.lol/) with help of [**ImageMagick**](https://www.imagemagick.org/script/index.php) to an image I am going to use one my personal webpage and various professional profiles.
+
+**Thoughts:** Goo to be back.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
