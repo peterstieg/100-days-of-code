@@ -764,8 +764,20 @@ B, **Google Apps Scripts**: Started considering to shift parts of my learning ho
 ### Day 62: April 3rd, 2018
 
 **Today's Progress**: 
-A, **Go**: Installed the **Go** server to apply Michael Fogleman's [**Primitive** image filter](https://primitive.lol/) with help of [**ImageMagick**](https://www.imagemagick.org/script/index.php) to an image I am going to use one my personal webpage and various professional profiles.
+A, **Go**: Installed the **Go** server to apply Michael Fogleman's [**Primitive** image filter](https://primitive.lol/) with help of [**ImageMagick**](https://www.imagemagick.org/script/index.php) to an image I am going to use on my personal webpage and various professional profiles.
 
 **Thoughts:** Good to be back.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 63: April 4th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Solved the Title Case a Sentence algorithm thanks to .map() after numberless fruitless approaches.
+B, [**Microsoft Academy**](https://academy.microsoft.com/): Discovered Microsoft's professional program courses for Front-End Web Development, Entry Level Software Development, AI, Big Data and Data Science.
+
+**Thoughts:** Practice. Practice. Practice.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
