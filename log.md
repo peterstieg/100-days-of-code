@@ -781,3 +781,16 @@ B, [**Microsoft Academy**](https://academy.microsoft.com/): Discovered Microsoft
 **Thoughts:** Practice. Practice. Practice.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+
+### Day 64: April 5th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp 1**: Repeated, revised and refactored the first six Basic Algorithm Scripting challenges reducing the code by more than 50%. Interesting to see how my coding mirrors linguistics more than programming logic, #redundantVariables
+B, **FreeCodeCamp 1**: Started with the Return Largest Numbers in Arrays challenge.
+
+**Thoughts:** Repetition. Repetition. Repetition.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
