@@ -794,3 +794,15 @@ B, **FreeCodeCamp 1**: Started with the Return Largest Numbers in Arrays challen
 **Thoughts:** Repetition. Repetition. Repetition.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 65: April 6th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Elation as I solved the Largest Number of Four and Confirm the Ending challenges thanks to the past day of studying.
+B, **MISC**: Discovered the Shapefile format thanks to N. Alejandra Estevez.
+
+**Thoughts:** Practice makes permanent.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
