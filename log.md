@@ -812,7 +812,7 @@ B, **MISC**: Discovered the Shapefile format thanks to N. Alejandra Estevez.
 ### Day 66: April 7th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Another successful day of Basic Algorithm Scripting on FCC. For the first time I solved three JavaScript challenges in a row. In one day. In one session. Must be the #SaturdayDayFever.
+A, **FreeCodeCamp**: Another successful day of Basic #Algorithm Scripting. For the first time I solved three #JavaScript challenges in a row. Just one day. Just one session. Must be the #SaturdayNightFever 🕺
 
 **Thoughts:** Execution. Execution. Execution.
 
