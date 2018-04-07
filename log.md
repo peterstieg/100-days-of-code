@@ -806,3 +806,14 @@ B, **MISC**: Discovered the Shapefile format thanks to N. Alejandra Estevez.
 **Thoughts:** Practice makes permanent.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 66: April 7th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Another successful day of Basic Algorithm Scripting on FCC. For the first time I solved three JavaScript challenges in a row. In one day. In one session. Must be the #SaturdayDayFever.
+
+**Thoughts:** Execution. Execution. Execution.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
