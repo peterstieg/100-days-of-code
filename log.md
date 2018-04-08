@@ -817,3 +817,15 @@ A, **FreeCodeCamp**: Another successful day of Basic #Algorithm Scripting. For t
 **Thoughts:** Execution. Execution. Execution.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 67: April 8th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Solved the Slasher Flick challenge and went on a deep-dive into .slice(), .splice() and .indexOf(). It's good to keep up the pace.
+B, **MISC**: [Discovered Nuclide.io](https://nuclide.io/), [Facebook Open Source](https://code.facebook.com/) and the [Facebook Engineering Group](https://www.facebook.com/Engineering/). I wonder what else is there.
+
+**Thoughts:** Keep struggling.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
