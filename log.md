@@ -824,8 +824,21 @@ A, **FreeCodeCamp**: Another successful day of Basic #Algorithm Scripting. For t
 
 **Today's Progress**: 
 A, **FreeCodeCamp**: Solved the Slasher Flick challenge and went on a deep-dive into .slice(), .splice() and .indexOf(). It's good to keep up the pace.
-B, **MISC**: [Discovered Nuclide.io](https://nuclide.io/), [Facebook Open Source](https://code.facebook.com/) and the [Facebook Engineering Group](https://www.facebook.com/Engineering/). I wonder what else is there.
+B, **MISC**: Discovered [Nuclide.io](https://nuclide.io/), [Facebook Open Source](https://code.facebook.com/) and the [Facebook Engineering Group](https://www.facebook.com/Engineering/). I wonder what else is there.
 
 **Thoughts:** Keep struggling.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 68: April 9th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Solved the Mutation algorithm challenge.
+B, **W3.CSS**: Dropped the idea of creating parallel projects both in Bootstrap **and** W3.CSS.
+C, **GitHub**: Found Roshan Jossey's repository on GitHub and webpage thanks to Edit B.
+
+**Thoughts:**  Thank God it's Monday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
