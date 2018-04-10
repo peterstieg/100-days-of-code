@@ -842,3 +842,16 @@ C, **GitHub**: Found Roshan Jossey's repository on GitHub and webpage thanks to 
 **Thoughts:**  Thank God it's Monday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 69: April 10th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Solved the Falsy Bouncer algorithm challenge and studied arguments, Boolean and .filter()
+B, **SQL**: Discovered SQL Island by Technische Universität Kaiserslautern thanks to David Dimitrov. A cute game to learn #SQL. So far only available in German.
+C, **#AI**: Decided to enroll in the Microsoft Academy course on #ArtificialIntelligence.
+
+**Thoughts:**  Thank God it's Tueday.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
