@@ -855,3 +855,15 @@ C, **#AI**: Decided to enroll in the Microsoft Academy course on #ArtificialInte
 **Thoughts:**  Thank God it's Tueday.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 70: April 11th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Worked on various solutions for the Seek and Destroy challenge but cannot filter the array by more than one value.
+B, **#AI**: Went through the first topics of Graeme Malcom's [**Introduction to #ArtificialIntelligence** on edX](https://courses.edx.org/courses/course-v1:Microsoft+DAT263x+1T2018a/course/) #DAT263x and discovered Project [Jupyter](https://jupyter.org/).
+
+**Thoughts:**  Thank God it's Wednesday.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
