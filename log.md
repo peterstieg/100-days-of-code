@@ -873,10 +873,22 @@ B, **#AI**: Went through the first topics of Graeme Malcom's [**Introduction to 
 ### Day 71: April 12th, 2018
 
 **Today's Progress**: 
-A, **FreeCodeCamp**: Continued to worked on the Seek and Destroy challenge.
+A, **FreeCodeCamp**: Continued to work on the Seek and Destroy challenge.
 B, **JavaScript**: Discovered the Arrow function and the need to declare Functions outside of blocks.
 C, **Misc:** Had a mindblowing morning with Selenium, Nokogiri and Jupyter. Thanks to Elisheba Wiggins for explaining and pointing me in the right direction.
 
 **Thoughts:** The harder the battle. The sweeter the victory.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 72: April 13th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Took me three days and a better understanding of arguments and arrays to solve Seek and Destroy challenge.
+B, **Artificial Intelligence**: Continued Microsoft's edX course on #AI and #ML, #DAT263x. Check out this interesting video on clustering if you are interest in the topic: https://www.youtube.com/watch?v=4xDwLV-yFck 
+
+**Thoughts:** Sweet.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
