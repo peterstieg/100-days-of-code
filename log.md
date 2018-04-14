@@ -892,3 +892,14 @@ B, **Artificial Intelligence**: Continued Microsoft's edX course on #AI and #ML,
 **Thoughts:** Sweet.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 73: April 14th, 2018
+
+**Today's Progress**: 
+A, **Wikipeda**: Did my home work and read Thomas Steiger's paper [**"Wikipedia Tools for Google Spreadsheets"**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44817.pdf) and fiddled around with the [**"Wikipedia and Wikidata Tools" Add-on for Chrome**](https://chrome.google.com/webstore/detail/wikipedia-and-wikidata-to/aiilcelhmpllcgkhhpifagfehbddkdfp?hl=en). Next step: Understand and customize the WIKITRANSLATE function for business use cases. 
+
+**Thoughts:** Thank you, Thomas Steiger!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
