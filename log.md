@@ -960,6 +960,6 @@ Basic #Algorithm Scripting took me less than 22 days/study hours to complete üç
 **Today's Progress**: 
 
 A, **FreeCodeCamp**: Solved all JSON API and AJAX challenges.
-B, **Artificial Intelligence**: Did another module of Graeme Malcolm's course on AI.
+B, **Artificial Intelligence**: Did the module on Regression Models of Graeme Malcolm's course on Microsoft Azure's Machine Learning.
 
 **Thoughts:** Progressing!
