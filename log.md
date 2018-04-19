@@ -903,3 +903,63 @@ A, **Wikipeda**: Did my home work and read Thomas Steiger's paper [**"Wikipedia 
 **Thoughts:** Thank you, Thomas Steiger!
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 74: April 15th, 2018
+
+**Today's Progress**: 
+A, **Server Query Language**: Started to have a look into SQL thanks to Technische Universität Kaiserslautern's game "SQL Island". Using the Query function in Google Spreadsheets should be easier after learning the basics.
+
+Thanks to @dimihendrickx!
+
+**Thoughts:** Thank you, David Dimitrov!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 75: April 16th, 2018
+
+**Today's Progress**: 
+A, **ArtificialIntelligence**: Continued Microsoft's course by provisioning a workspace on the Azure Machine Learning platform.
+B, **Structured Query Language**: Got a basic notion of SQL thanks to a German university's #QL based game.
+
+**Thoughts:** Thank you, real David Dimitrov!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 76: April 17th, 2018
+
+**Today's Progress**: 
+A, **FreeCodeCamp**: Solved the Where do I belong challenge in less than 30 minutes.
+B, **Artificial Intelligence**: Enjoyed a module of Graeme Malcolm's course. Wouldn't understand the LEFT OUTER JOIN if it was not for David Dimitrov and SQL Island.
+C, **JavaScript**: Studied call, slice and sort
+
+**Thoughts:** About to finish the Basic Algorithm Challenges.
+
+
+
+### Day 77: April 18th, 2018
+
+**Today's Progress**: 
+
+Wanted to say **GUNAX LBH DHVAPL YNEFBA** to @ossia 🙏. 
+
+**FreeCodeCamp**: Solved the #CaesarsCipher challenge with the JavaScript methods charCodeAt and fromCharCode.
+Basic #Algorithm Scripting took me less than 22 days/study hours to complete 🍾.
+
+**Thoughts:** Progress!
+
+
+
+### Day 78: April 19th, 2018
+
+**Today's Progress**: 
+
+A, **FreeCodeCamp**: Solved all JSON API and AJAX challenges.
+B, **Artificial Intelligence**: Did another module of Graeme Malcolm's course on AI.
+
+**Thoughts:** Progressing!
