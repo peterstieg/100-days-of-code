@@ -963,3 +963,17 @@ A, **FreeCodeCamp**: Solved all JSON API and AJAX challenges.
 B, **Artificial Intelligence**: Did the module on Regression Models of Graeme Malcolm's course on Microsoft Azure's Machine Learning.
 
 **Thoughts:** Progressing!
+
+
+
+### Day 79: April 20th, 2018
+
+**Today's Progress**: 
+
+#100DaysOfCode #r1d79
+
+A, **Google**: Started with [App Scripts API](https://developers.google.com/apps-script/overview) and [AdWords API](https://developers.google.com/adwords/api/docs/guides/start) to automate work and have more time for Social Media accounts like [@Posterlounge_UK](https://twitter.com/Posterlounge_UK).
+B, **3D Builder**: Created two 3D models for a company training session on Google Analytics.
+https://www.posterlounge.co.uk/the-king-pr680013.html
+
+**Thoughts:** Progressed!
