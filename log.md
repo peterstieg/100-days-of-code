@@ -970,10 +970,19 @@ B, **Artificial Intelligence**: Did the module on Regression Models of Graeme Ma
 
 **Today's Progress**: 
 
-#100DaysOfCode #r1d79
-
 A, **Google**: Started with [App Scripts API](https://developers.google.com/apps-script/overview) and [AdWords API](https://developers.google.com/adwords/api/docs/guides/start) to automate work and have more time for Social Media accounts like [@Posterlounge_UK](https://twitter.com/Posterlounge_UK).
 B, **3D Builder**: Created two 3D models for a company training session on Google Analytics.
 https://www.posterlounge.co.uk/the-king-pr680013.html
 
 **Thoughts:** Progressed!
+
+
+
+### Day 80: April 21th, 2018
+
+**Today's Progress**: 
+
+A, **Google App Scripts Language**: Deep-dived into [App Scripts](https://developers.google.com/apps-script/overview) foor Sheets.
+B, **Google 2**: Wachted Xerxes Dotiwalla's videos on the [AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
+C, **Google 3**: Discovered Google (Fusion) Tables by chance.
+**Thoughts:** So many platforms and products!
