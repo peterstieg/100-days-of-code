@@ -940,6 +940,8 @@ C, **JavaScript**: Studied call, slice and sort
 
 **Thoughts:** About to finish the Basic Algorithm Challenges.
 
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
 
 
 ### Day 77: April 18th, 2018
@@ -953,6 +955,8 @@ Basic #Algorithm Scripting took me less than 22 days/study hours to complete üç
 
 **Thoughts:** Progress!
 
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
 
 
 ### Day 78: April 19th, 2018
@@ -963,6 +967,8 @@ A, **FreeCodeCamp**: Solved all JSON API and AJAX challenges.
 B, **Artificial Intelligence**: Did the module on Regression Models of Graeme Malcolm's course on Microsoft Azure's Machine Learning.
 
 **Thoughts:** Progressing!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
 
 
@@ -976,13 +982,32 @@ https://www.posterlounge.co.uk/the-king-pr680013.html
 
 **Thoughts:** Progressed!
 
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
 
 
 ### Day 80: April 21th, 2018
 
 **Today's Progress**: 
 
-A, **Google App Scripts Language**: Deep-dived into [App Scripts](https://developers.google.com/apps-script/overview) foor Sheets.
+A, **Google App Scripts Language**: Deep-dived into [App Scripts](https://developers.google.com/apps-script/overview) for Sheets.
 B, **Google 2**: Wachted Xerxes Dotiwalla's videos on the [AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
 C, **Google 3**: Discovered Google (Fusion) Tables by chance.
+
 **Thoughts:** So many platforms and products!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 81: April 22th, 2018
+
+**Today's Progress**: 
+
+A, **Artificial Intelligence**: Continued Microsoft's course on on linear regression, categorization and clustering with Azure Machine Learning.
+B, **Bootstrap**: Stumbled across the fact that Bootstrap is a Twitter invention by Marko Otto, @mdo, and @fat. 
+C, **HTML**: Worked on my [Personal Webpage](http://www.peterstieg.com) with support of Lazy Guy v2 by Pixel Wars.
+
+**Thoughts:** 20 days to go!
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
