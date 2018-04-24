@@ -1011,3 +1011,16 @@ C, **HTML**: Worked on my [Personal Webpage](http://www.peterstieg.com) with sup
 **Thoughts:** 20 days to go!
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 82: April 22th, 2018
+
+**Today's Progress**: 
+
+A, **HTML**: Updated and published the basic structure for my future blog and [personal Webpage](http://www.peterstieg.com).
+B, **GIMP**: Created a vector-based background image with help of Go, Primitive, ImageMagick and GIMP.  
+
+**Thoughts:** About time.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
