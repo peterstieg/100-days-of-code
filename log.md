@@ -1018,7 +1018,7 @@ C, **HTML**: Worked on my [Personal Webpage](http://www.peterstieg.com) with sup
 
 **Today's Progress**: 
 
-A, **HTML**: Updated and published the basic structure for my future blog and [personal Webpage](http://www.peterstieg.com).
+A, **HTML**: Updated and published the basic structure and first page for my future blog and [personal Webpage](http://www.peterstieg.com).
 B, **GIMP**: Created a vector-based background image with help of Go, Primitive, ImageMagick and GIMP.  
 
 **Thoughts:** About time.
