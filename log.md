@@ -1000,7 +1000,7 @@ C, **Google 3**: Discovered Google (Fusion) Tables by chance.
 
 
 
-### Day 81: April 22th, 2018
+### Day 81: April 23th, 2018
 
 **Today's Progress**: 
 
@@ -1014,7 +1014,7 @@ C, **HTML**: Worked on my [Personal Webpage](http://www.peterstieg.com) with sup
 
 
 
-### Day 82: April 22th, 2018
+### Day 82: April 24th, 2018
 
 **Today's Progress**: 
 
@@ -1022,5 +1022,19 @@ A, **HTML**: Updated and published the basic structure and first page for my fut
 B, **GIMP**: Created a vector-based background image with help of Go, Primitive, ImageMagick and GIMP.  
 
 **Thoughts:** About time.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 83: April 25th, 2018
+
+**Today's Progress**: 
+
+A, **HTML**: Edited layout and text, added favicon to [personal Webpage](http://www.peterstieg.com).
+B, **Artifical Intelligence**: Repeated and summarzied modules of Microsoft's edXcourse on Machine Learning on Azure. Fell in love with Matplotlib and Seaborn.
+C, **ReST vs SOAP**: Neither of the two concepts is clear to me at this point. 
+
+**Thoughts:** Deliver.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
