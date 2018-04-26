@@ -1038,3 +1038,15 @@ C, **ReST vs SOAP**: Neither of the two concepts is clear to me at this point.
 **Thoughts:** Deliver.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 84: April 25th, 2018
+
+**Today's Progress**: 
+
+A, **Artifical Intelligence**: Continued going over the Microsoft's edXcourse on Machine Learning on Azure and adapting the examples and exercises to business use cases.
+
+**Thoughts:** It's okay.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
