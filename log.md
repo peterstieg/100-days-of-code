@@ -1041,12 +1041,24 @@ C, **ReST vs SOAP**: Neither of the two concepts is clear to me at this point.
 
 
 
-### Day 84: April 25th, 2018
+### Day 84: April 26th, 2018
 
 **Today's Progress**: 
 
 A, **Artifical Intelligence**: Continued going over the Microsoft's edXcourse on Machine Learning on Azure and adapting the examples and exercises to business use cases.
 
 **Thoughts:** It's okay.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 85: April 30th, 2018
+
+**Today's Progress**: 
+
+A, **Artifical Intelligence**: Deep-dived into Regression models through Microsoft's edXcourse on Machine Learning on Azure: Normalizing data with zScore and MinMax. Splitting the data. Training, scoring and evaluating the model. 
+
+**Thoughts:** Back again.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
