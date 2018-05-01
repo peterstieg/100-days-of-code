@@ -1062,3 +1062,16 @@ A, **Artifical Intelligence**: Deep-dived into Regression models through Microso
 **Thoughts:** Back again.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 86: May 1st, 2018
+
+**Today's Progress**: 
+
+A, **Misc**: Watched a series of videos on Amazon Alexa, Dynamo DB, Google App Scripts, Google Mail, Google Scripts and Python. 
+
+**Thoughts:** Movie time.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
