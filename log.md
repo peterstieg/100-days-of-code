@@ -1069,9 +1069,9 @@ A, **Artifical Intelligence**: Deep-dived into Regression models through Microso
 
 **Today's Progress**: 
 
-A, **Misc**: Watched a series of videos on Amazon Alexa, Dynamo DB, Google App Scripts, Google Mail, Google Scripts and Python. 
+A, **Misc**: Wanted to know what other people do with code and tools so I decided to watch a series of videos on Amazon Alexa, Dynamo DB, Google App Scripts, Google Mail, Google Scripts and Python. 
 
-**Thoughts:** Movie time.
+**Thoughts:** Think outside the box.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
