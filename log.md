@@ -1075,3 +1075,16 @@ A, **Misc**: Wanted to know what other people do with code and tools so I decide
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 87: May 2nd, 2018
+
+**Today's Progress**: 
+
+A, **Artifical Intelligence**: Studied regression models and Azure machine learning.
+B, **Google AdWords**: Worked on AdWords #Scripts and AdWords Query Languages, #AWQL. If interested have look at the YouTube Channel for "Ads Developers": Videos by Marc Wandschneider, Adam Ohren and Michael Cloonans are a great place to start with AdWords automation and customization, https://www.youtube.com/user/AdsDevelopers/videos
+
+**Thoughts:** No downtime.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
