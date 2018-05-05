@@ -1088,3 +1088,15 @@ B, **Google AdWords**: Worked on AdWords #Scripts and AdWords Query Languages, #
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 88: May 3rd, 2018
+
+**Today's Progress**: 
+
+A, **Artifical Intelligence**: Finished regression models on Azure machine learning. Interesting to see how Azure Machine Learning is much faster in the evening due to lower server load. Interesting to see how 8 minutes tutorial video can turn out to be several days of actual training.
+
+**Thoughts:** Interesting.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
