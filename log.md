@@ -1106,7 +1106,9 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 
 **Today's Progress**: 
 
-A, **Artifical Intelligence**: Finished categorization and clustering models on Azure machine learning. Started to read the ML documentation on its various modules.
+**Artifical Intelligence**: 
+1, Finished categorization and clustering models on Azure machine learning.
+2, Started to read up on the modules in the #AI tool's documentation..
 
 **Thoughts:** It ain't over till it's over.
 
