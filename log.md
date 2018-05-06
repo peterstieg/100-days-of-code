@@ -1100,3 +1100,15 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 89: May 6th, 2018
+
+**Today's Progress**: 
+
+A, **Artifical Intelligence**: Finished categorization and clustering models on Azure machine learning. Started to read the ML documentation on its various modules.
+
+**Thoughts:** It ain't over till it's over.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
