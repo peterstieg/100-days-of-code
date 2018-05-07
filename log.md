@@ -1114,3 +1114,16 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
+
+
+### Day 90: May 7th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence**:
+1, Finished publishing and consuming a Predictive Web Service on #Azure machine learning.
+2. Useful to get access to trained ML models over a free Microsoft #Excel Add-in or through HTTP endpoints.
+
+**Thoughts:** It ain't over till it's over.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
