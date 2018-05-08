@@ -1127,3 +1127,17 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 **Thoughts:** It ain't over till it's over.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 91: May 8th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence**: Spent the morning
+1, looking for an error in my ML model which predicts a PatientID but it shouldn't and
+2. working on #lab 1 of the edX course.
+
+**Thoughts:** Needle in a haystack.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
