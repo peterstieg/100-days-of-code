@@ -1141,3 +1141,17 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 **Thoughts:** Needle in a haystack.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 92: May 9th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** Still studying the #Azure platform to get a better understanding of
+1, Microsoft's Machine Learning with its functions and modules.
+2. Tools and libraries like Jupyter, MatPlotLib, Python and Seaborn.
+
+**Thoughts:** Such a big haystack.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
