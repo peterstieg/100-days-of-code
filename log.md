@@ -1150,8 +1150,22 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 
 **Artifical Intelligence:** Still studying the #Azure platform to get a better understanding of
 1, Microsoft's Machine Learning with its functions and modules.
-2. Tools and libraries like Jupyter, MatPlotLib, Python and Seaborn.
+2, Tools and libraries like Jupyter, MatPlotLib, Python and Seaborn.
 
 **Thoughts:** Such a big haystack.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 93: May 10th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** Deep diving into the Azure platform and
+1, Machine Learning modules like Join Data and Convert to CSV.
+2, Jupyter's notebook and histograms and boxplots with Seaborn and Numpy.
+
+**Thoughts:** The haystack keeps growing.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
