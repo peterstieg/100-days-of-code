@@ -1169,3 +1169,20 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 **Thoughts:** The haystack keeps growing.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 94: May 10th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** 
+A, Deep diving into the Azure platform's documentation on
+1, Machine Learning modules like Edit Metadata, Normalize/Split Data and Train/Score/Evaluate Model.
+2, Regression Models: Two-Class Boosted and Two-Class Logistic.
+**Test Automation**
+B, Watching Selenium tutorials in English and German while ironing.
+
+**Thoughts:** Maybe we should get to work.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
