@@ -1172,7 +1172,7 @@ A, **Artifical Intelligence**: Finished regression models on Azure machine learn
 
 
 
-### Day 94: May 10th, 2018
+### Day 94: May 11th, 2018
 
 **Today's Progress**: 
 
@@ -1184,5 +1184,32 @@ A, Deep diving into the Azure platform's documentation on
 B, Watching Selenium tutorials in English and German while ironing.
 
 **Thoughts:** Maybe we should get to work.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 95: May 12th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** 
+A, AI: Read the Azure documentation for Machine Learning modules like Enter Data manually and Consuming a Predictive Web Service via Excel and HTTP 🌍
+B, edX: Finished Lab01 of Microsoft Azure's course, dat263x 🤖.
+
+**Thoughts:** Trip to Klosterhotel Wölteringerode.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 95: May 12th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** 
+Watched edX' videos on Text Processing and Natural Language Processing modules like word frequency, term frequency, stemming, sentiment analysis with NLTK and Bing Translator API.
+
+**Thoughts:** Back to Leipzig.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
