@@ -1208,7 +1208,7 @@ B, edX: Finished Lab01 of Microsoft Azure's course, dat263x 🤖.
 **Today's Progress**: 
 
 **Artifical Intelligence:** 
-Watched edX' videos on Text Processing and Natural Language Processing modules like word frequency, term frequency, stemming, sentiment analysis with NLTK and Bing Translator API.
+Watched edX' videos on Text Processing and Natural Language Processing modules like word frequency, term frequency, stemming and sentiment analysis with NLTK and Bing Translator API.
 
 **Thoughts:** Back to Leipzig.
 
