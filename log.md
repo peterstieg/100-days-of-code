@@ -1221,7 +1221,7 @@ Watched edX' videos on Text Processing and Natural Language Processing modules l
 **Today's Progress**: 
 
 **Artifical Intelligence:** 
-1, Applied learnings from yesterdays's edX course on Machine Learning in Jupyter notebook.
+1, Applied learnings from yesterdays's edX course on Microsoft Azure Machine Learning in Jupyter notebook.
 2, Read the cURL and Python documentation on .isdigit(), .join(), generator expression, list comprehension.
 
 **Thoughts:** Round one is about to end.
