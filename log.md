@@ -1203,7 +1203,7 @@ B, edX: Finished Lab01 of Microsoft Azure's course, dat263x 🤖.
 
 
 
-### Day 95: May 12th, 2018
+### Day 96: May 14th, 2018
 
 **Today's Progress**: 
 
@@ -1211,5 +1211,19 @@ B, edX: Finished Lab01 of Microsoft Azure's course, dat263x 🤖.
 Watched edX' videos on Text Processing and Natural Language Processing modules like word frequency, term frequency, stemming and sentiment analysis with NLTK and Bing Translator API.
 
 **Thoughts:** Back to Leipzig.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 97: May 15th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** 
+1, Applied learnings from yesterdays's edX course on Machine Learning in Jupyter notebook.
+2, Read the cURL and Python documentation on .isdigit(), .join(), generator expression, list comprehension.
+
+**Thoughts:** Round one is about to end.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
