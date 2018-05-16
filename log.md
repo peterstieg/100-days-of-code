@@ -1236,7 +1236,7 @@ Watched edX' videos on Text Processing and Natural Language Processing modules l
 
 **Artifical Intelligence:** 
 1, Applied learnings from the last days' edX course on Microsoft Azure Machine Learning in Jupyter notebook.
-2, Read the MatPlotLib and Pandas documentation to customize the excercises' charts and tables.
+2, Read the MatPlotLib, NLTK and Pandas documentation to customize output like texts, tables and charts.
 
 **Thoughts:** Round one is about to end.
 
