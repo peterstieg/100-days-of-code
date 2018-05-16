@@ -1227,3 +1227,17 @@ Watched edX' videos on Text Processing and Natural Language Processing modules l
 **Thoughts:** Round one is about to end.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 98: May 16th, 2018
+
+**Today's Progress**: 
+
+**Artifical Intelligence:** 
+1, Applied learnings from the last days' edX course on Microsoft Azure Machine Learning in Jupyter notebook.
+2, Read the MatPlotLib and Pandas documentation to customize the excercises' charts and tables.
+
+**Thoughts:** Round one is about to end.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
