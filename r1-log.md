@@ -1233,11 +1233,36 @@ Watched edX' videos on Text Processing and Natural Language Processing modules l
 ### Day 98: May 16th, 2018
 
 **Today's Progress**: 
-
-**Artifical Intelligence:** 
+Artifical Intelligence: 
 1, Applied learnings from the last days' edX course on Microsoft Azure Machine Learning in Jupyter notebook.
 2, Read the MatPlotLib, NLTK and Pandas documentation to customize output like texts, tables and charts.
 
 **Thoughts:** Round one is about to end.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 99: May 17th, 2018
+
+**Today's Progress**: 
+1, Machine Learning: Continued to work on Python scripts for Text and Speech recognition on Microsoft Azure.
+2, Google AdWords API & Google Sheets: Read through the docs 
+3, GIMP: Preparing cover images for a blog post to sum up my first _100DaysOfCode
+
+**Thoughts:** Round one is about to end.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
+### Day 100: May 18th, 2018
+
+**Today's Progress**:
+Summarized key takeaways of my first round of 100 days of #code to get an overview, evaluate the progress and plan the next round of self-study in the world of coding.
+
+Will publish an article on Medium and LinkedIn tomorrow.
+
+**Thoughts:** Round one has ended.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
