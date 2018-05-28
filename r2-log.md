@@ -5,12 +5,9 @@
 **Today's Progress:** 
 
 Artificial Intelligence
-
-1, #Python: Read about the built-in String class, FOR and IN constructs as well as the need to import pandas as pd because the built-in methods that overlap with pandas methods.
-
-2, #NLTK: Read about tokenization.
-
-3, #cURL: Read the manual.
+1, Python: Read about the built-in String class, FOR and IN constructs as well as the need to import pandas as pd because the built-in methods that overlap with pandas methods.
+2, NLTK: Read about tokenization.
+3, cURL: Read the manual.
 
 **Thoughts:** Focus.
 
