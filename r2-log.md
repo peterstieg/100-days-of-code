@@ -1,6 +1,6 @@
 # 100 Days Of Code - Round 2 -  Log
 
-### Day 2: May 29th, 2018
+### Day 1: May 29th, 2018
 
 **Today's Progress:** 
 
@@ -15,6 +15,7 @@ Artificial Intelligence: Focused all morning on time-consuming research on
 **Thoughts:** Focus. And Research.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
 
 
 
