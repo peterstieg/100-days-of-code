@@ -1,5 +1,23 @@
 # 100 Days Of Code - Round 2 -  Log
 
+### Day 2: May 29th, 2018
+
+**Today's Progress:** 
+
+Artificial Intelligence: Focused all morning on time-consuming research on 
+
+1, Python and shall assignment with Bang and Magics
+
+2, Pandas' DataFrames
+
+3, MatPlotLib' figures
+
+**Thoughts:** Focus. And Research.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
 ### Day 0: May 28th, 2018
 
 **Today's Progress:** 
@@ -15,3 +33,6 @@ Artificial Intelligence
 **Thoughts:** Focus.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
