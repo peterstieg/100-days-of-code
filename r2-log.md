@@ -1,5 +1,23 @@
 # 100 Days Of Code - Round 2 -  Log
 
+### Day 2: May 30th, 2018
+
+**Today's Progress:** 
+
+Got up at 4:04 to research Python and 
+
+1, understand libraries for Data science like Matplotlib PyPlot plt, NumPy np, Pandas pd and Seaborn sns 
+
+2, identify use cases for NLTK corpora apart from Stopwords
+
+3, revise NLP concepts like Word Frequency WF, Term Frequency TF and Inverse Document Frequency IDF. 
+
+**Thoughts:** Focus. And Research.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+
+
 ### Day 1: May 29th, 2018
 
 **Today's Progress:** 
