@@ -1,5 +1,20 @@
 # 100 Days Of Code - Round 2 -  Log
 
+
+### Day 3: May 31st, 2018
+
+**Today's Progress:** 
+
+Spent the evening on Artificial Intelligence, Python, Lambda functions, feature hashing and libraries for data science like TextBlob tb, Natural Language Toolkit nltk and PorterStemmer.
+
+Thanks to David Dimitrov.
+
+**Thoughts:** Focus. And Research. And Repetition.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+---------------------------------------------
+
 ### Day 2: May 30th, 2018
 
 **Today's Progress:** 
@@ -16,7 +31,7 @@ Got up at 4:04 to research Python and
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
-----------------------------------------------
+---------------------------------------------
 
 ### Day 1: May 29th, 2018
 
