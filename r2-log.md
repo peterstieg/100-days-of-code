@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
 
+### Day 4: June 1st, 2018
+
+**Today's Progress:** 
+
+Another evening coding session spent with Microsoft Azure Machine Learning and Bing Speech Recognition as well as the Python library SpeechRecognition and the ElementTree method.
+
+**Thoughts:** Focus. And Research. And Repetition. And over again.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+---------------------------------------------
+
 ### Day 3: May 31st, 2018
 
 **Today's Progress:** 
