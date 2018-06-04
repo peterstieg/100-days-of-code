@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
 
+### Day 5: June 4th, 2018
+
+**Today's Progress:** 
+
+Started the week with Microsoft's edX course on Artificial Intelligence and a module on LUIS: the Language Understanding Intelligence Service, its Intents and Entities. Easy progress with the platform and its functionalities thanks to 3 seminars on Alexa. 
+
+**Thoughts:** A new week. A new start. Same ol'. Same ol'.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+--------------------------------------------
+
 ### Day 4: June 1st, 2018
 
 **Today's Progress:** 
@@ -11,7 +23,7 @@ Another evening coding session spent with Microsoft Azure Machine Learning and B
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
----------------------------------------------
+--------------------------------------------
 
 ### Day 3: May 31st, 2018
 
@@ -25,7 +37,7 @@ Thanks to David Dimitrov.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
----------------------------------------------
+--------------------------------------------
 
 ### Day 2: May 30th, 2018
 
@@ -43,7 +55,7 @@ Got up at 4:04 to research Python and
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
----------------------------------------------
+--------------------------------------------
 
 ### Day 1: May 29th, 2018
 
@@ -61,8 +73,7 @@ Artificial Intelligence: Focused all morning on time-consuming research on
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
-
-
+--------------------------------------------
 
 ### Day 0: May 28th, 2018
 
