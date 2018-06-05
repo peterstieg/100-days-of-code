@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
 
+### Day 6: June 5th, 2018
+
+**Today's Progress:** 
+
+Passed Lab2 of the edX course dat263x and ran into AttributeError, NameError, ImportError, TypeError and ValueError in Python scripts as all good things come in fives, right?
+
+**Thoughts:** Errors.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+-------------------------------------------
+
 ### Day 5: June 4th, 2018
 
 **Today's Progress:** 
@@ -11,7 +23,7 @@ Started the week with Microsoft's edX course on Artificial Intelligence and a mo
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
---------------------------------------------
+-------------------------------------------
 
 ### Day 4: June 1st, 2018
 
