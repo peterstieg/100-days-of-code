@@ -1,6 +1,19 @@
 # 100 Days Of Code - Round 2 -  Log
 
 
+### Day 7: June 6th, 2018
+
+**Today's Progress:** 
+
+Early morning coding sessions with Python for Artificial Intelligence:
+Image Processing, Equalizatio with Gaussian and Median Filters, Sobel Edge Detection and Harris Corner Detection with SciKit-Image library.
+
+**Thoughts:** Tired.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+------------------------------------------
+
 ### Day 6: June 5th, 2018
 
 **Today's Progress:** 
@@ -11,7 +24,7 @@ Passed Lab2 of the edX course dat263x and ran into AttributeError, NameError, Im
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
--------------------------------------------
+------------------------------------------
 
 ### Day 5: June 4th, 2018
 
@@ -23,7 +36,7 @@ Started the week with Microsoft's edX course on Artificial Intelligence and a mo
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
--------------------------------------------
+------------------------------------------
 
 ### Day 4: June 1st, 2018
 
