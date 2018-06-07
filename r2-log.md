@@ -1,5 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
+### Day 8: June 7th, 2018
+
+**Today's Progress:** 
+
+Continued with Microsofts course on Artificial Intelligence with the CustomVision AI and Image Classification, ComputerVision API for Image Analysis and Face API for face recognition.
+
+Since the Python scripts of the course contain errors I am going to rewrite them from scratch.
+
+**Thoughts:** Errors. Again.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------------------
 
 ### Day 7: June 6th, 2018
 
@@ -12,7 +25,7 @@ Image Processing, Equalizatio with Gaussian and Median Filters, Sobel Edge Detec
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
-------------------------------------------
+----------------------------------------
 
 ### Day 6: June 5th, 2018
 
