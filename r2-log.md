@@ -7,7 +7,7 @@
 
 1 Artificial Intelligence: Video Basics with Python AV, [Microsoft Video Indexer](https://www.videoindexer.ai/) and its API. 
 2, Python: Compared [**Conda**](https://conda.io/docs/) with [PIP](https://pypi.org/project/pip/) thanks to 
-Jake VanderPlas [blog post](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions on GitHub.
+Jake VanderPlas [blog post](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions) on GitHub.
 
 **Thoughts:** .
 
