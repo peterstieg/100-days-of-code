@@ -1,6 +1,21 @@
 # 100 Days Of Code - Round 2 -  Log
 
-### Day 8: June 7th, 2018
+
+### [Day 9](https://twitter.com/peterstieg/status/1004930237392617472): June 8th, 2018
+
+**Today's Progress:** 
+
+1 Artificial Intelligence: Video Basics with Python AV, [Microsoft Video Indexer](https://www.videoindexer.ai/) and its API. 
+2, Python: Compared [**Conda**](https://conda.io/docs/) with [PIP](https://pypi.org/project/pip/) thanks to 
+Jake VanderPlas [blog post](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions on GitHub.
+
+**Thoughts:** .
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+-------------------------------------
+
+### [Day 8](https://twitter.com/peterstieg/status/1004570282890268672): June 7th, 2018
 
 **Today's Progress:** 
 
@@ -12,9 +27,9 @@ Since the Python scripts of the course contain errors I am going to rewrite them
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
-----------------------------------------
+-------------------------------------
 
-### Day 7: June 6th, 2018
+### Day [7](https://twitter.com/peterstieg/status/1004200533731741700): June 6th, 2018
 
 **Today's Progress:** 
 
