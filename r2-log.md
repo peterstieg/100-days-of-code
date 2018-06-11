@@ -1,11 +1,27 @@
 # 100 Days Of Code - Round 2 -  Log
 
 
+
+### [Day 10](https://twitter.com/peterstieg/status/1006016630525190144): June 11th, 2018
+
+**Today's Progress:** 
+
+Artificial Intelligence:
+1, Passed Lab3 of the edX course dat263x on Computer Vision.
+2, Started with bots and their deployment on Azure, basic creation, channels, intelligence and QnAs.
+3, Read Kyle Simpson's and Quincy Larson's thoughts on self-learning.
+
+**Thoughts:** Irony.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+---------------------------------
+
 ### [Day 9](https://twitter.com/peterstieg/status/1004930237392617472): June 8th, 2018
 
 **Today's Progress:** 
 
-1 Artificial Intelligence: Video Basics with Python AV, [Microsoft Video Indexer](https://www.videoindexer.ai/) and its API. 
+1, Artificial Intelligence: Video Basics with Python AV, [Microsoft Video Indexer](https://www.videoindexer.ai/) and its API. 
 2, Python: Compared [**Conda**](https://conda.io/docs/) with [PIP](https://pypi.org/project/pip/) thanks to 
 Jake VanderPlas [blog post](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions) on GitHub.
 
@@ -13,7 +29,7 @@ Jake VanderPlas [blog post](http://jakevdp.github.io/blog/2016/08/25/conda-myths
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
--------------------------------------
+---------------------------------
 
 ### [Day 8](https://twitter.com/peterstieg/status/1004570282890268672): June 7th, 2018
 
