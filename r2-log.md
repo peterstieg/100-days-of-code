@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
+### [Day 11](https://twitter.com/peterstieg/status/1006388786434072577): June 12th, 2018
 
+**Today's Progress:** 
+
+Artificial Intelligence:
+1, Bots: Created QnA Bot with Knowledge base on Microsoft's [QnA Maker](https://www.qnamaker.ai/)
+2, Cortana: Deployed a web chat bot as skill for Microsoft's voice assistant.
+
+**Thoughts:** Orderliness is next to Godliness.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+---------------------------------
 
 ### [Day 10](https://twitter.com/peterstieg/status/1006016630525190144): June 11th, 2018
 
@@ -9,9 +21,9 @@
 Artificial Intelligence:
 1, Passed Lab3 of the edX course dat263x on Computer Vision.
 2, Started with bots and their deployment on Azure, basic creation, channels, intelligence and QnAs.
-3, Read Kyle Simpson's and Quincy Larson's thoughts on self-learning.
+3, Read [Kyle Simpson's](https://twitter.com/getify/status/1005956035868123137) and Quincy Larson's thoughts on self-learning.
 
-**Thoughts:** Irony.
+**Thoughts:** Irony. And. Doubt.
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
@@ -74,7 +86,7 @@ Passed Lab2 of the edX course dat263x and ran into AttributeError, NameError, Im
 
 **Today's Progress:** 
 
-Started the week with Microsoft's edX course on Artificial Intelligence and a module on LUIS: the Language Understanding Intelligence Service, its Intents and Entities. Easy progress with the platform and its functionalities thanks to 3 seminars on Alexa. 
+Started the week with Microsoft's edX course on Artificial Intelligence and a module on LUIS: Microsoft's [Language Understanding Intelligence Service](https://www.luis.ai/), its Intents and Entities. Easy progress with the platform and its functionalities thanks to 3 seminars on Alexa. 
 
 **Thoughts:** A new week. A new start. Same ol'. Same ol'.
 
