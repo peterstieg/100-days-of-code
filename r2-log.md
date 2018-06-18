@@ -1,5 +1,33 @@
 # 100 Days Of Code - Round 2 -  Log
 
+
+### [Day 13](https://twitter.com/peterstieg/status/1008561243542708224): June 18th, 2018
+
+**Today's Progress:** 
+
+Artificial Intelligence:
+1, Passed Lab3 of the edX course dat263x on the Microsoft's Bot Framework and Cortana.
+2, Introduction to Azure's Data Science Virtual Machine and [Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)
+
+**Thoughts:** Orderliness is next to Godliness.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+### [Day 12](https://twitter.com/peterstieg/status/1006882196131590144): June 13th, 2018
+
+**Today's Progress:** 
+
+Reading "Designing Voice User Interfaces" by Cathy Pearl while traveling from Leipzig to Rome and dealing with cancelled Lufthansa flights.
+
+**Thoughts:** Rolling stone.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+
 ### [Day 11](https://twitter.com/peterstieg/status/1006388786434072577): June 12th, 2018
 
 **Today's Progress:** 
@@ -12,7 +40,7 @@ Artificial Intelligence:
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
----------------------------------
+----------------------------
 
 ### [Day 10](https://twitter.com/peterstieg/status/1006016630525190144): June 11th, 2018
 
