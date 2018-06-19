@@ -1,5 +1,16 @@
 # 100 Days Of Code - Round 2 -  Log
 
+### [Day 14](https://twitter.com/peterstieg/status/1008919750825701376): June 19th, 2018
+
+**Today's Progress:** 
+
+Received the edX certification after Completing the edX course DAT263x: Introduction to Artificial Intelligence (AI).
+
+**Thoughts:** One step closer.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
 
 ### [Day 13](https://twitter.com/peterstieg/status/1008561243542708224): June 18th, 2018
 
