@@ -1,5 +1,18 @@
 # 100 Days Of Code - Round 2 -  Log
 
+
+### [Day 15](https://twitter.com/peterstieg/status/1009279151419871232): June 20th, 2018
+
+**Today's Progress:** 
+
+Partly revised a Python script on Text and Speech analysis in Jupyter Notebook as I decided to study every single line of code used over the past weeks during Microsoft's online course on Artificial Intelligence on edX.
+
+**Thoughts:** Every single line of code.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
 ### [Day 14](https://twitter.com/peterstieg/status/1008919750825701376): June 19th, 2018
 
 **Today's Progress:** 
