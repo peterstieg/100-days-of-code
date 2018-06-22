@@ -1,13 +1,24 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+### [Day 17](https://twitter.com/peterstieg/status/1010002752087449600): June 22nd, 2018
+
+**Today's Progress:** 
+2nd day of studying and commenting Python scripts for data science, e.g.
+1, Python: Client library for Microsoft Azure machine Learning 
+2, Boxplots with NumPy and matplotLib
+
+**Thoughts:** Patience pays off.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
 ### [Day 16](https://twitter.com/peterstieg/status/997733860808028160): June 21st, 2018
 
 **Today's Progress:** 
 1st day of studying and commenting Python scripts for Datascience, e.g.
 1, Python: Datasets vs DataFrames, 
 2, Seaborn: set_style, FacetGrid, distplot
-
-#100DaysOfCode #r2d16
 
 **Thoughts:** To imitate is to limitate.
 
