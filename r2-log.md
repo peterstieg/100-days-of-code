@@ -1,5 +1,17 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+
+### [Day 17](https://twitter.com/peterstieg/status/1011089344520695808): June 23rd, 2018
+
+**Today's Progress:** 
+3rd day of studying and commenting Python scripts for data science, e.g. Python, Seaborn and cURL
+
+**Thoughts:** Repetitive research.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
 ### [Day 17](https://twitter.com/peterstieg/status/1010002752087449600): June 22nd, 2018
 
 **Today's Progress:** 
