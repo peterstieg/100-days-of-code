@@ -1247,8 +1247,8 @@ Artifical Intelligence:
 
 **Today's Progress**: 
 1, Machine Learning: Continued to work on Python scripts for Text and Speech recognition on Microsoft Azure.
-2, Google AdWords API & Google Sheets: Read through the docs 
-3, GIMP: Preparing cover images for a blog post to sum up my first _100DaysOfCode
+2, Google AdWords API & Google Sheets: Read through the docs.
+3, GIMP: Preparing cover images for a blog post to sum up my first 100 Days of Code.
 
 **Thoughts:** Round one is about to end.
 
@@ -1259,7 +1259,7 @@ Artifical Intelligence:
 ### Day 100: May 18th, 2018
 
 **Today's Progress**:
-Summarized key takeaways of my first round of 100 days of #code to get an overview, evaluate the progress and plan the next round of self-study in the world of coding.
+Summarized key takeaways of my first round of 100 days of code to get an overview, evaluate the progress and plan the next round of self-study in the world of coding.
 
 Will publish an article on Medium and LinkedIn tomorrow.
 
