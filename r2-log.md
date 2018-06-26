@@ -1,7 +1,19 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+### [Day 19](https://twitter.com/peterstieg/status/1011459116873801730): June 26th, 2018
 
-### [Day 17](https://twitter.com/peterstieg/status/1011089344520695808): June 23rd, 2018
+**Today's Progress:** 
+4th day of studying and commenting Python scripts for data science, e.g. Python, PyPlot, Pandas, NLTK and MatPlotLib
+
+#100DaysOfCode #r2d19
+
+**Thoughts:** Slow and steady wins the race.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+### [Day 18](https://twitter.com/peterstieg/status/1011089344520695808): June 25th, 2018
 
 **Today's Progress:** 
 3rd day of studying and commenting Python scripts for data science, e.g. Python, Seaborn and cURL
