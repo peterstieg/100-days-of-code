@@ -1,11 +1,21 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+
+### [Day 20](https://twitter.com/peterstieg/status/1011821388175376384): June 27th, 2018
+
+**Today's Progress:** 
+5th day of studying and commenting Python scripts for data science and text analysis, e.g. Python, TextBlob, dictionaries, enumerate and lambda functions.
+
+**Thoughts:** One line of code. Five elements to research.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
 ### [Day 19](https://twitter.com/peterstieg/status/1011459116873801730): June 26th, 2018
 
 **Today's Progress:** 
 4th day of studying and commenting Python scripts for data science, e.g. Python, PyPlot, Pandas, NLTK and MatPlotLib
-
-#100DaysOfCode #r2d19
 
 **Thoughts:** Slow and steady wins the race.
 
