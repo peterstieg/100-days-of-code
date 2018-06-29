@@ -1,6 +1,17 @@
 # 100 Days Of Code - Round 2 -  Log 
 
-### [Day 20](https://twitter.com/peterstieg/status/1012418076904747010): June 28th, 2018
+### [Day 21](https://twitter.com/peterstieg/status/1012540974885691392): June 29th, 2018
+
+**Today's Progress:** 
+Relaxing morning updating CSS and HTML of my personal website http://www.peterstieg.com/
+
+**Thoughts:** Relax.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+### [Day 21](https://twitter.com/peterstieg/status/1012418076904747010): June 28th, 2018
 
 **Today's Progress:** 
 6th day of studying and commenting Python scripts for data science and text analysis, e.g. Python, Porter Stemmer and iterables
