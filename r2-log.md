@@ -1,6 +1,17 @@
 # 100 Days Of Code - Round 2 -  Log 
 
-### [Day 21](https://twitter.com/peterstieg/status/1012540974885691392): June 29th, 2018
+### [Day 23](https://twitter.com/peterstieg/status/1013872667915669504): June 29th, 2018
+
+**Today's Progress:** 
+Relaxing evening playing around with vector graphics, Inkscape and a quote from Alan Watts.
+
+**Thoughts:** Kindly let me help you, said the monkey.
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+### [Day 22](https://twitter.com/peterstieg/status/1012540974885691392): June 29th, 2018
 
 **Today's Progress:** 
 Relaxing morning updating CSS and HTML of my personal website http://www.peterstieg.com/
