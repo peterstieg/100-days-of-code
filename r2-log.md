@@ -3,7 +3,7 @@
 ### [Day 23](https://twitter.com/peterstieg/status/1013872667915669504): June 29th, 2018
 
 **Today's Progress:** 
-Relaxing evening playing around with vector graphics, Inkscape and a quote from Alan Watts.
+Relaxing evening trying to create a typography by playing around with vector graphics, Inkscape and a quote from Alan Watts.
 
 **Thoughts:** Kindly let me help you, said the monkey.
 
