@@ -1,6 +1,17 @@
 # 100 Days Of Code - Round 2 -  Log 
 
-### [Day 23](https://twitter.com/peterstieg/status/1013872667915669504): June 29th, 2018
+### [Day 24](https://twitter.com/peterstieg/status/1014246027518504966): July 3rd, 2018
+
+**Today's Progress:** 
+7th day of studying, commenting and repeating Python scripts for data science and text analysis.
+
+**Thoughts:** Thought about quitting the challenge but decided not to. I never stop. I never quit. I never settle. 
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
+### [Day 23](https://twitter.com/peterstieg/status/1013872667915669504): July 2nd, 2018
 
 **Today's Progress:** 
 Relaxing evening trying to create a typography by playing around with vector graphics, Inkscape and a quote from Alan Watts.
@@ -25,7 +36,7 @@ Relaxing morning updating CSS and HTML of my personal website http://www.peterst
 ### [Day 21](https://twitter.com/peterstieg/status/1012418076904747010): June 28th, 2018
 
 **Today's Progress:** 
-6th day of studying and commenting Python scripts for data science and text analysis, e.g. Python, Porter Stemmer and iterables
+6th day of studying and commenting Python scripts for data science and text analysis, e.g. Python, Porter Stemmer and iterables.
 
 **Thoughts:** Resiliency.
 
