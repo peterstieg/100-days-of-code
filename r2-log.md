@@ -1,11 +1,11 @@
 # 100 Days Of Code - Round 2 -  Log 
 
-### [Day 24](https://twitter.com/peterstieg/status/1014246027518504966): July 3rd, 2018
+### [Day 24](https://twitter.com/peterstieg/status/1014594411215360002): July 4th, 2018
 
 **Today's Progress:** 
-7th day of studying, commenting and repeating Python scripts for data science and text analysis.
+8th day of studying and commenting Python scripts for data science and text analysis.
 
-**Thoughts:** Thought about quitting the challenge but decided not to. I never stop. I never quit. I never settle. 
+**Thoughts:** Slow and steady wins the race. 
 
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
