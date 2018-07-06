@@ -1,5 +1,15 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+### [Day 26](https://twitter.com/peterstieg/status/1015075175988121600): July 6th, 2018
+
+**Today's Progress:** 10th day of studying and commenting Python scripts for data science and text analysis. 
+
+**Thoughts:** This takes longer than I anticipated. 
+
+**Link to work:** [Personal Webpage](http://www.peterstieg.com)
+
+----------------------------
+
 ### [Day 25](https://twitter.com/peterstieg/status/1014715270668177408): July 5th, 2018
 
 **Today's Progress:** 
@@ -11,6 +21,7 @@
 **Link to work:** [Personal Webpage](http://www.peterstieg.com)
 
 ----------------------------
+
 ### [Day 24](https://twitter.com/peterstieg/status/1014594411215360002): July 4th, 2018
 
 **Today's Progress:** 
