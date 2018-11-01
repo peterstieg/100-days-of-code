@@ -1,5 +1,7 @@
 # 100 Days Of Code - Round 2 -  Log 
 
+### failed attempt
+
 ### [Day 26](https://twitter.com/peterstieg/status/1015075175988121600): July 6th, 2018
 
 **Today's Progress:** 10th day of studying and commenting Python scripts for data science and text analysis. 
