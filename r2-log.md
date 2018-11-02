@@ -1,9 +1,29 @@
+### [Day 2](https://twitter.com/peterstieg/status/1058219893063991297): November 2nd, 2018
+
+**Today's Progress:** Second day of studying for [test automation](https://en.wikipedia.org/wiki/Test_automation) with Jakob Robert Jaworski's German YouTube channel, [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/). Eclipse is without doubt one of the most complicated programs I laid hands on.
+
+**Thoughts:** 🛠️ Configuring software and installing libraries #100DaysOfCode R2D2 🤖
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+
+---
+
 ### [Day 1](https://twitter.com/peterstieg/status/1057864878386491392): November 1st, 2018
 
-**Today's Progress:** First day of studying - mostly installing and configuring - [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) thanks to Jakob Robert Jaworski's German @YouTube channel on [test automation](https://en.wikipedia.org/wiki/Test_automation). 
+**Today's Progress:** First day of studying - mostly installing and configuring - [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) thanks to Jakob Robert Jaworski's German YouTube channel on [test automation](https://en.wikipedia.org/wiki/Test_automation). 
 
 **Thoughts:** 😃 Finally back to the #100DaysOfCode R2D1 💻
 
-**Link to work:** [[DE]Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
 
----
+--
+
+### [Day DDD](): MONTH DAY, 2018
+
+**Today's Progress:** text [link]() 
+
+**Thoughts:** #100DaysOfCode R2DDD
+
+**Link to work:** [link]()
+
+
