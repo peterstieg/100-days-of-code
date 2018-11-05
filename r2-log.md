@@ -1,3 +1,13 @@
+### [Day 3](): November 5th, 2018
+
+**Today's Progress:** Third of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on researching the error messages "target is not a jdk root" and "The specified JRE installation does not exist".
+
+**Thoughts:** 🔎 Researching error #100DaysOfCode R2D3 🐛
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+
+---
+
 ### [Day 2](https://twitter.com/peterstieg/status/1058219893063991297): November 2nd, 2018
 
 **Today's Progress:** Second day of studying for [test automation](https://en.wikipedia.org/wiki/Test_automation) with Jakob Robert Jaworski's German YouTube channel, [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/). Eclipse is without doubt one of the most complicated programs I laid hands on.
@@ -16,7 +26,7 @@
 
 **Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
 
---
+---
 
 ### [Day DDD](): MONTH DAY, 2018
 
