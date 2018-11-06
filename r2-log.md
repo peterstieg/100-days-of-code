@@ -1,3 +1,13 @@
+### [Day 3](https://twitter.com/peterstieg/status/1059915946607996928): November 6th, 2018
+
+**Today's Progress:** Fourth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on re-installing Eclipse Neon 3 and encountering new errors.
+
+**Thoughts:** 🔎 Still researching error messages #100DaysOfCode R2D4 🐛
+
+**Link to work:** [[EN] How to Download & Install Selenium WebDriver](https://www.guru99.com/installing-selenium-webdriver.html)
+
+---
+
 ### [Day 3](https://twitter.com/peterstieg/status/1059540876245024768): November 5th, 2018
 
 **Today's Progress:** Third of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on researching the error messages "target is not a jdk root" and "The specified JRE installation does not exist".
