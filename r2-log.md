@@ -1,4 +1,14 @@
-### [Day 3](https://twitter.com/peterstieg/status/1059915946607996928): November 6th, 2018
+### [Day 5](https://twitter.com/peterstieg/status/1060640791209668608): November 8th, 2018
+
+**Today's Progress:** Fifth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel and Guru99's tutorial.
+
+**Thoughts:** 🛫 Starting all over again #100DaysOfCode R2D5 🛬
+
+**Link to work:** [[EN] How to Download & Install Selenium WebDriver](https://www.guru99.com/installing-selenium-webdriver.html)
+
+---
+
+### [Day 4](https://twitter.com/peterstieg/status/1059915946607996928): November 6th, 2018
 
 **Today's Progress:** Fourth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on re-installing Eclipse Neon 3 and encountering new errors.
 
