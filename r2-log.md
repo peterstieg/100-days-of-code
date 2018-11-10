@@ -1,3 +1,13 @@
+### [Day 6](https://twitter.com/peterstieg/status/1061298859463372802): November 10th, 2018
+
+**Today's Progress:** Fifth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/), errors in polling news feed and during initialization of boot layer.
+
+**Thoughts:** ♾ Neverending story #100DaysOfCode R2D6 📖
+
+**Link to work:** [[EN] Eclipse Photon](https://www.eclipse.org/photon/)
+
+---
+
 ### [Day 5](https://twitter.com/peterstieg/status/1060640791209668608): November 8th, 2018
 
 **Today's Progress:** Fifth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel and Guru99's tutorial.
