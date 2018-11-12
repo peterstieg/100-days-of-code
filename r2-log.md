@@ -1,10 +1,20 @@
+### [Day 7](): November 23, 2018
+
+**Today's Progress:** Seventh of day of [test automation](https://en.wikipedia.org/wiki/Test_automation): I have finally got [Eclipse 2018-09](https://www.eclipse.org/) to run the "Hello world" program on Java, but I am still running into "cannot resolve into type" errors on [Selenium HQ](https://www.seleniumhq.org/).
+
+**Thoughts:** 🐌 Slow and steady wins the race #100DaysOfCode R2D7 🐢
+
+**Link to work:** [Java SE - Downloads](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+---
+
 ### [Day 6](https://twitter.com/peterstieg/status/1061298859463372802): November 10th, 2018
 
-**Today's Progress:** Fifth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/), errors in polling news feed and during initialization of boot layer.
+**Today's Progress:** Sixth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/), errors in polling news feed and during initialization of boot layer.
 
 **Thoughts:** ♾ Neverending story #100DaysOfCode R2D6 📖
 
-**Link to work:** [[EN] Eclipse Photon](https://www.eclipse.org/photon/)
+**Link to work:** [[EN] Eclipse Photon](https://www.eclipse.org/)
 
 ---
 
