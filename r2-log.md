@@ -1,4 +1,14 @@
-### [Day 7](): November 23, 2018
+### [Day 8](https://twitter.com/peterstieg/status/1062204710596345857): November 13th, 2018
+
+**Today's Progress:** Eighth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation): The newest Java version may be the reason why [Eclipse 2018-09](https://www.eclipse.org/) "cannot resolve into type" [Selenium HQ](https://www.seleniumhq.org/)'s WebDriver.
+
+**Thoughts:** 👣 Baby steps #100DaysOfCode R2D8 👣
+
+**Link to work:** [[EN] Automation Testing Hub](http://www.automationtestinghub.com/)
+
+---
+
+### [Day 7](https://twitter.com/peterstieg/status/1061851252412346368): November 12th, 2018
 
 **Today's Progress:** Seventh of day of [test automation](https://en.wikipedia.org/wiki/Test_automation): I have finally got [Eclipse 2018-09](https://www.eclipse.org/) to run the "Hello world" program on Java, but I am still running into "cannot resolve into type" errors on [Selenium HQ](https://www.seleniumhq.org/).
 
