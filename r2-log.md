@@ -1,3 +1,14 @@
+### [Day 9](https://twitter.com/peterstieg/status/1062767235217965058): November 14th, 2018
+
+**Today's Progress:** 9th day of [test automation](https://en.wikipedia.org/wiki/Test_automation)
+1, Finally configured a running installation of [Eclipse 2018-09](https://www.eclipse.org/downloads/), Java 8.0 & [Selenium WebDriver](https://www.seleniumhq.org/)
+2, Rejoiced fiddling around w/ basic locators like ids & linkTexts on Bing.com
+
+**Thoughts:** 🕺 Dancing away #100DaysOfCode R2D9 💃
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+---
+
 ### [Day 8](https://twitter.com/peterstieg/status/1062204710596345857): November 13th, 2018
 
 **Today's Progress:** Eighth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation): The newest Java version may be the reason why [Eclipse 2018-09](https://www.eclipse.org/) "cannot resolve into type" [Selenium HQ](https://www.seleniumhq.org/)'s WebDriver.
