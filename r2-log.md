@@ -1,8 +1,8 @@
 ### [Day 10](https://twitter.com/peterstieg/status/1062933347507277826): November 15th, 2018
 
-**Today's Progress:** 10th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to the video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014.. 
+**Today's Progress:** 10th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014. 
 
-**Thoughts:** 👣 Baby steps #100DaysOfCode R2D10 👣
+**Thoughts:** 📈 Making progress #100DaysOfCode R2D10 📉
 
 **Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/playlist?list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
 
