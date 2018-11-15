@@ -1,3 +1,13 @@
+### [Day 10](https://twitter.com/peterstieg/status/1062933347507277826): November 15th, 2018
+
+**Today's Progress:** 10th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to the video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014.. 
+
+**Thoughts:** 👣 Baby steps #100DaysOfCode R2D10 👣
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/playlist?list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+
+---
+
 ### [Day 9](https://twitter.com/peterstieg/status/1062767235217965058): November 14th, 2018
 
 **Today's Progress:** 9th day of [test automation](https://en.wikipedia.org/wiki/Test_automation)
@@ -6,7 +16,8 @@
 
 **Thoughts:** 🕺 Dancing away #100DaysOfCode R2D9 💃
 
-**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/playlist?list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+
 ---
 
 ### [Day 8](https://twitter.com/peterstieg/status/1062204710596345857): November 13th, 2018
@@ -65,7 +76,7 @@
 
 **Thoughts:** 🔎 Researching error messages #100DaysOfCode R2D3 🐛
 
-**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/playlist?list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
 
 ---
 
@@ -75,7 +86,7 @@
 
 **Thoughts:** 🛠️ Configuring software and installing libraries #100DaysOfCode R2D2 🤖
 
-**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=dZ-UiDMW6xA&list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/playlist?list=PLLYstrt-Kv-TyOmaLLauaQ68kCsoCv4-Z)
 
 ---
 
