@@ -1,3 +1,15 @@
+### [Day 11](https://twitter.com/peterstieg/status/1063298159852601345): November 16, 2018
+
+**Today's Progress:** 11th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/) and [Selenium WebDriver](https://www.seleniumhq.org/) : Calling up webpages, identifying and selecting webelements, looping through arrays.
+
+Really had a fun time this morning. Thank you, community!
+
+**Thoughts:** 🙂 Such a fun time #100DaysOfCode R2D11 🙂
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=iGAyiL4xQpM)
+
+---
+
 ### [Day 10](https://twitter.com/peterstieg/status/1062933347507277826): November 15th, 2018
 
 **Today's Progress:** 10th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014. 
