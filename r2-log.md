@@ -1,6 +1,17 @@
+
+### [Day 12](https://twitter.com/peterstieg/status/1063660553049202688): November 17, 2018
+
+**Today's Progress:** 12th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got stuck while setting up the test environment at a java.lang.nullpointerexception which was fatal to my good moorning mood, 😉
+
+**Thoughts:** 🛑 Red Lights  #100DaysOfCode R2D12 🛑
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=cre7zvsV2Dc)
+
+---
+
 ### [Day 11](https://twitter.com/peterstieg/status/1063298159852601345): November 16, 2018
 
-**Today's Progress:** 11th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/) and [Selenium WebDriver](https://www.seleniumhq.org/) : Calling up webpages, identifying and selecting webelements, looping through arrays.
+**Today's Progress:** 11th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/) and [Selenium WebDriver](https://www.seleniumhq.org/): Calling up webpages, identifying and selecting webelements, looping through arrays.
 
 Really had a fun time this morning. Thank you, community!
 
