@@ -1,9 +1,19 @@
 
+### [Day 13](https://twitter.com/peterstieg/status/1064386557182922752): November 19, 2018
+
+**Today's Progress:** 13th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got unstuck by resolving a "java.lang.nullpointerexception" error caused by a bad declaration of a reference variable.
+
+**Thoughts:** 🚦 Green Lights #100DaysOfCode R2D13 🚦
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=cre7zvsV2Dc)
+
+---
+
 ### [Day 12](https://twitter.com/peterstieg/status/1063660553049202688): November 17, 2018
 
 **Today's Progress:** 12th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got stuck while setting up the test environment at a java.lang.nullpointerexception which was fatal to my good moorning mood, 😉
 
-**Thoughts:** 🛑 Red Lights  #100DaysOfCode R2D12 🛑
+**Thoughts:** 🛑 Red Lights #100DaysOfCode R2D12 🛑
 
 **Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=cre7zvsV2Dc)
 
