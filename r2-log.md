@@ -5,7 +5,7 @@
 
 **Thoughts:** 📄 Lists and Languages #100DaysOfCode R2D14 📄
 
-**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro]()
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=DuedeS4Rdxg)
 
 ---
 
