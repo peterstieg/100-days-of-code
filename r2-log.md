@@ -1,4 +1,14 @@
 
+### [Day 14](https://twitter.com/peterstieg/status/1064738971257839616): November 20, 2018
+
+**Today's Progress:** 13th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Made progress with automated finding, listing, selecting and asserting webelements.
+
+**Thoughts:** 📄 Lists and Languages #100DaysOfCode R2D14 📄
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro]()
+
+---
+
 ### [Day 13](https://twitter.com/peterstieg/status/1064386557182922752): November 19, 2018
 
 **Today's Progress:** 13th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got unstuck by resolving a "java.lang.nullpointerexception" error caused by a bad declaration of a reference variable.
