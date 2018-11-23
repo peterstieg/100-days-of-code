@@ -1,8 +1,16 @@
+### [Day 16](https://twitter.com/peterstieg/status/1065832523618492416): November 23, 2018
 
+**Today's Progress:** 16th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and first steps with [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** #100DaysOfCode R2DDD
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=vUvd0lpNOnk)
+
+---
 
 ### [Day 15](https://twitter.com/peterstieg/status/1065466175394643968): November 22, 2018
 
-**Today's Progress:** 13th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with enhanced loops and learned about the differences between beforeSuit, beforeClass and beforeMethod.
+**Today's Progress:** 15th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with enhanced loops and learned about the differences between beforeSuite, beforeClass and beforeMethod.
 
 **Thoughts:** 🌊 Navigating through page sources #100DaysOfCode R2D15 🚢
 
