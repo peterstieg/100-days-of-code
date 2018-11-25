@@ -1,7 +1,17 @@
 
+### [Day 18](https://twitter.com/peterstieg/status/1066728281783877634): November 25, 2018
+
+**Today's Progress:** Sunday session learning to create databases, import tables and clean data on [MySQL](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html).  
+
+**Thoughts:** 📈 Creating databases and importing tables #100DaysOfCode R2D18 📉
+
+**Link to work:** [[EN] MySQL](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
+
+---
+
 ### [Day 17](https://twitter.com/peterstieg/status/1066198570532044800): November 24, 2018
 
-**Today's Progress:** 16th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and more baby steps with [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 17th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and more baby steps with [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🦋 Yet another productive morning with coding for #100DaysOfCode R2D17
 
