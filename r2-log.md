@@ -1,3 +1,12 @@
+### [Day 19](https://twitter.com/peterstieg/status/1067283215340224517): November 27, 2018
+
+**Today's Progress:** 17th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** 🛣️ Making progress every day #100DaysOfCode R2D19
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=FWcrb2UnuE8)
+
+---
 
 ### [Day 18](https://twitter.com/peterstieg/status/1066728281783877634): November 25, 2018
 
