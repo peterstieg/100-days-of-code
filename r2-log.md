@@ -1,6 +1,18 @@
+---
+
+### [Day 20](https://twitter.com/peterstieg/status/1067833061721681921): November 28, 2018
+
+**Today's Progress:** 19th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** 🤖 Took a day off work to sleep in, relax and code #100DaysOfCode R2D20
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=X9CYDnwdEfY)
+
+---
+
 ### [Day 19](https://twitter.com/peterstieg/status/1067283215340224517): November 27, 2018
 
-**Today's Progress:** 17th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 18th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🛣️ Making progress every day #100DaysOfCode R2D19
 
