@@ -1,3 +1,9 @@
+### [Day 21](https://twitter.com/peterstieg/status/1068370324801101824): November 30, 2018
+
+**Today's Progress:** 20th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** 🛑 Waiting, explicitly and implicitly #100DaysOfCode R2D21
+
 ---
 
 ### [Day 20](https://twitter.com/peterstieg/status/1067833061721681921): November 28, 2018
