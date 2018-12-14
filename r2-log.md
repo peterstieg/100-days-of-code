@@ -1,6 +1,16 @@
+### [Day 23](https://twitter.com/peterstieg/status/1073438741228732416): December 14th, 2018
+
+**Today's Progress:** 22nd of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** 🖼️ Automated screenshots #100DaysOfCode R2D23
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=xEJMozQtjI8)
+
+---
+
 ### [Day 22](https://twitter.com/peterstieg/status/1073078966662115328): December 13th, 2018
 
-**Today's Progress:** 21st of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 21st day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 👿 Scrolling to find the Devil in the details #100DaysOfCode R2D22
 
@@ -10,7 +20,7 @@
 
 ### [Day 21](https://twitter.com/peterstieg/status/1068370324801101824): November 30, 2018
 
-**Today's Progress:** 20th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 20th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🛑 Waiting, explicitly and implicitly #100DaysOfCode R2D21
 
@@ -20,7 +30,7 @@
 
 ### [Day 20](https://twitter.com/peterstieg/status/1067833061721681921): November 28, 2018
 
-**Today's Progress:** 19th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 19th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🤖 Took a day off work to sleep in, relax and code #100DaysOfCode R2D20
 
@@ -30,7 +40,7 @@
 
 ### [Day 19](https://twitter.com/peterstieg/status/1067283215340224517): November 27, 2018
 
-**Today's Progress:** 18th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 18th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🛣️ Making progress every day #100DaysOfCode R2D19
 
@@ -50,7 +60,7 @@
 
 ### [Day 17](https://twitter.com/peterstieg/status/1066198570532044800): November 24, 2018
 
-**Today's Progress:** 17th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and more baby steps with [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 17th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and more baby steps with [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🦋 Yet another productive morning with coding for #100DaysOfCode R2D17
 
@@ -60,7 +70,7 @@
 
 ### [Day 16](https://twitter.com/peterstieg/status/1065832523618492416): November 23, 2018
 
-**Today's Progress:** 16th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and first steps with [Apache Maven](https://mvnrepository.com/).
+**Today's Progress:** 16th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and first steps with [Apache Maven](https://mvnrepository.com/).
 
 **Thoughts:** 🐛 Finding and exterminating bugs #100DaysOfCode R2D16 
 
@@ -70,7 +80,7 @@
 
 ### [Day 15](https://twitter.com/peterstieg/status/1065466175394643968): November 22, 2018
 
-**Today's Progress:** 15th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with enhanced loops and learned about the differences between beforeSuite, beforeClass and beforeMethod.
+**Today's Progress:** 15th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with enhanced loops and learned about the differences between beforeSuite, beforeClass and beforeMethod.
 
 **Thoughts:** 🌊 Navigating through page sources #100DaysOfCode R2D15 🚢
 
@@ -80,7 +90,7 @@
 
 ### [Day 14](https://twitter.com/peterstieg/status/1064738971257839616): November 20, 2018
 
-**Today's Progress:** 14th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with automated finding, listing, selecting and asserting webelements.
+**Today's Progress:** 14th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html). Made progress with automated finding, listing, selecting and asserting webelements.
 
 **Thoughts:** 📄 Lists and Languages #100DaysOfCode R2D14 📄
 
@@ -90,7 +100,7 @@
 
 ### [Day 13](https://twitter.com/peterstieg/status/1064386557182922752): November 19, 2018
 
-**Today's Progress:** 13th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got unstuck by resolving a "java.lang.nullpointerexception" error caused by a bad declaration of a reference variable.
+**Today's Progress:** 13th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got unstuck by resolving a "java.lang.nullpointerexception" error caused by a bad declaration of a reference variable.
 
 **Thoughts:** 🚦 Green Lights #100DaysOfCode R2D13 🚦
 
@@ -100,7 +110,7 @@
 
 ### [Day 12](https://twitter.com/peterstieg/status/1063660553049202688): November 17, 2018
 
-**Today's Progress:** 12th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got stuck while setting up the test environment at a java.lang.nullpointerexception which was fatal to my good moorning mood, 😉
+**Today's Progress:** 12th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/) and [TestNG](https://testng.org/doc/index.html): Got stuck while setting up the test environment at a java.lang.nullpointerexception which was fatal to my good moorning mood, 😉
 
 **Thoughts:** 🛑 Red Lights #100DaysOfCode R2D12 🛑
 
@@ -110,7 +120,7 @@
 
 ### [Day 11](https://twitter.com/peterstieg/status/1063298159852601345): November 16, 2018
 
-**Today's Progress:** 11th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/) and [Selenium WebDriver](https://www.seleniumhq.org/): Calling up webpages, identifying and selecting webelements, looping through arrays.
+**Today's Progress:** 11th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/) and [Selenium WebDriver](https://www.seleniumhq.org/): Calling up webpages, identifying and selecting webelements, looping through arrays.
 
 Really had a fun time this morning. Thank you, community!
 
@@ -122,7 +132,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 10](https://twitter.com/peterstieg/status/1062933347507277826): November 15th, 2018
 
-**Today's Progress:** 10th of day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014. 
+**Today's Progress:** 10th day of [test automation](https://en.wikipedia.org/wiki/Test_automation). Thanks to video tutorials on YouTube I am learning [Selenium WebDriver](https://www.seleniumhq.org/) and improving [xPath](https://www.w3schools.com/xml/xml_xpath.asp) skills I started to learn with [@rberetta83](https://twitter.com/rberetta83) for a [@omniauto](https://twitter.com/omniauto) project in 2014. 
 
 **Thoughts:** 📈 Making progress #100DaysOfCode R2D10 📉
 
@@ -154,7 +164,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 7](https://twitter.com/peterstieg/status/1061851252412346368): November 12th, 2018
 
-**Today's Progress:** Seventh of day of [test automation](https://en.wikipedia.org/wiki/Test_automation): I have finally got [Eclipse 2018-09](https://www.eclipse.org/) to run the "Hello world" program on Java, but I am still running into "cannot resolve into type" errors on [Selenium HQ](https://www.seleniumhq.org/).
+**Today's Progress:** Seventh day of [test automation](https://en.wikipedia.org/wiki/Test_automation): I have finally got [Eclipse 2018-09](https://www.eclipse.org/) to run the "Hello world" program on Java, but I am still running into "cannot resolve into type" errors on [Selenium HQ](https://www.seleniumhq.org/).
 
 **Thoughts:** 🐌 Slow and steady wins the race #100DaysOfCode R2D7 🐢
 
@@ -164,7 +174,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 6](https://twitter.com/peterstieg/status/1061298859463372802): November 10th, 2018
 
-**Today's Progress:** Sixth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/), errors in polling news feed and during initialization of boot layer.
+**Today's Progress:** Sixth day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/), errors in polling news feed and during initialization of boot layer.
 
 **Thoughts:** ♾ Neverending story #100DaysOfCode R2D6 📖
 
@@ -174,7 +184,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 5](https://twitter.com/peterstieg/status/1060640791209668608): November 8th, 2018
 
-**Today's Progress:** Fifth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel and Guru99's tutorial.
+**Today's Progress:** Fifth day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel and Guru99's tutorial.
 
 **Thoughts:** 🛫 Starting all over again #100DaysOfCode R2D5 🛬
 
@@ -184,7 +194,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 4](https://twitter.com/peterstieg/status/1059915946607996928): November 6th, 2018
 
-**Today's Progress:** Fourth of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on re-installing Eclipse Neon 3 and encountering new errors.
+**Today's Progress:** Fourth day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on re-installing Eclipse Neon 3 and encountering new errors.
 
 **Thoughts:** 🔎 Still researching error messages #100DaysOfCode R2D4 🐛
 
@@ -194,7 +204,7 @@ Really had a fun time this morning. Thank you, community!
 
 ### [Day 3](https://twitter.com/peterstieg/status/1059540876245024768): November 5th, 2018
 
-**Today's Progress:** Third of day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on researching the error messages "target is not a jdk root" and "The specified JRE installation does not exist".
+**Today's Progress:** Third day of [test automation](https://en.wikipedia.org/wiki/Test_automation), [Eclipse](https://www.eclipse.org/) and [Selenium HQ](https://www.seleniumhq.org/) with Jaworski's YT channel. Spent most time on researching the error messages "target is not a jdk root" and "The specified JRE installation does not exist".
 
 **Thoughts:** 🔎 Researching error messages #100DaysOfCode R2D3 🐛
 
