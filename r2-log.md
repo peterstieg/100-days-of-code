@@ -1,8 +1,18 @@
+### [Day 29](https://twitter.com/peterstieg/status/1079418101979119617): December 31st, 2018
+
+**Today's Progress:** 28th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
+
+**Thoughts:** 📄 Data-driven testing take four #100DaysOfCode R2D28
+
+**Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=l7XEO5lx0AA)
+
+---
+
 ### [Day 28](https://twitter.com/peterstieg/status/1079418101979119617): December 30th, 2018
 
 **Today's Progress:** 27th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/).
 
-**Thoughts:** 📄 Data-driven testing take two #100DaysOfCode R2D27
+**Thoughts:** 📄 Data-driven testing take three #100DaysOfCode R2D27
 
 **Link to work:** [[DE] Testautomatisierung - Gewusst Wie Intro](https://www.youtube.com/watch?v=AZIjJpJmywY)
 
