@@ -1,3 +1,13 @@
+### [Day 33](https://twitter.com/peterstieg/status/1081505828706897920): January 5th, 2018
+
+**Today's Progress:** Basic PHP scripting and Bots with of [@vflorusso](https://github.com/vflorusso) and Azure Bot Service.
+
+**Thoughts:** 🌄 Saturday morning fun #100DaysOfCode R2D33 💻
+
+**Link to work:** [[EN] Bot Revolution lab at Codemotion Milan 2016](https://www.slideshare.net/gjuljo/bot-revolution-lab-at-codemotion-milan-2016)
+
+---
+
 ### [Day 32](https://twitter.com/peterstieg/status/1081041466019991552): January 4th, 2018
 
 **Today's Progress:** 30th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
