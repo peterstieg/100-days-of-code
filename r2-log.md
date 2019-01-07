@@ -1,5 +1,5 @@
 
-### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 4th, 2018
+### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 7th, 2018
 
 **Today's Progress:** 32nd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
 
