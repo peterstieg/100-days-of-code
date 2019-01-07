@@ -1,3 +1,14 @@
+
+### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 4th, 2018
+
+**Today's Progress:** 32nd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
+
+**Thoughts:** 📄 Data-driven testing take eight #100DaysOfCode R2D34
+
+**Link to work:** [[EN] SW Test Academy - Data Driven Testing with Excel in Selenium](https://www.swtestacademy.com/data-driven-excel-selenium/)
+
+---
+
 ### [Day 33](https://twitter.com/peterstieg/status/1081505828706897920): January 5th, 2018
 
 **Today's Progress:** Basic PHP scripting and Bots with of [@vflorusso](https://github.com/vflorusso) and Azure Bot Service.
@@ -10,9 +21,9 @@
 
 ### [Day 32](https://twitter.com/peterstieg/status/1081041466019991552): January 4th, 2018
 
-**Today's Progress:** 30th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
+**Today's Progress:** 31st day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
 
-**Thoughts:** 📄 Data-driven testing take five #100DaysOfCode R2D32
+**Thoughts:** 📄 Data-driven testing take seven #100DaysOfCode R2D32
 
 **Link to work:** [[EN] SW Test Academy - Data Driven Testing with Excel in Selenium](https://www.swtestacademy.com/data-driven-excel-selenium/)
 
@@ -22,7 +33,7 @@
 
 **Today's Progress:** 30th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
 
-**Thoughts:** 📄 Data-driven testing take five #100DaysOfCode R2D31
+**Thoughts:** 📄 Data-driven testing take six #100DaysOfCode R2D31
 
 **Link to work:** [[EN] SW Test Academy - Data Driven Testing with Excel in Selenium](https://www.swtestacademy.com/data-driven-excel-selenium/)
 
