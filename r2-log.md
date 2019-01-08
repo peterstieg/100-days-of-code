@@ -1,4 +1,14 @@
 
+### [Day 35](https://twitter.com/peterstieg/status/1082507230950424576): January 8th, 2018
+
+**Today's Progress:** Still trying to wrap my head around basic Java concepts on the 33rd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
+
+**Thoughts:** 📄 Data-driven testing take nine #100DaysOfCode R2D35
+
+**Link to work:** [[EN] SW Test Academy - Data Driven Testing with Excel in Selenium](https://www.swtestacademy.com/data-driven-excel-selenium/)
+
+---
+
 ### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 7th, 2018
 
 **Today's Progress:** 32nd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
