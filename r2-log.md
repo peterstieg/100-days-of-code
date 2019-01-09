@@ -1,4 +1,14 @@
 
+### [Day 36](https://twitter.com/peterstieg/status/1082860812379803653): January 9th, 2018
+
+**Today's Progress:** Working on basic Java concepts like Getters, Setters, Math.random(), rounding numbers and variable types before moving on with Data-Driven Testing.
+
+**Thoughts:** 📄 Java Basics Take #1 #100DaysOfCode R2D36
+
+**Link to work:** [[EN] Java™ Platform, Standard Edition 7 API Specification](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
+
+---
+
 ### [Day 35](https://twitter.com/peterstieg/status/1082507230950424576): January 8th, 2018
 
 **Today's Progress:** Still trying to wrap my head around basic Java concepts on the 33rd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
