@@ -1,9 +1,19 @@
 
+### [Day 37](https://twitter.com/peterstieg/status/1083226987500654593): January 10th, 2018
+
+**Today's Progress:** Working on basic Java concepts like [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)), [Escape Sequences]() and random number generation before moving on with [Data-Driven Testing](https://en.wikipedia.org/wiki/Data-driven_testing).
+
+**Thoughts:** 2⃣ Java Basics Take #2 #100DaysOfCode R2D37 2⃣
+
+**Link to work:** [[EN] The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
+
+---
+
 ### [Day 36](https://twitter.com/peterstieg/status/1082860812379803653): January 9th, 2018
 
-**Today's Progress:** Working on basic Java concepts like Getters, Setters, Math.random(), rounding numbers and variable types before moving on with Data-Driven Testing.
+**Today's Progress:** Working on basic Java concepts like Getters, Setters, Math.random(), rounding numbers and variable types before moving on with [Data-Driven Testing](https://en.wikipedia.org/wiki/Data-driven_testing).
 
-**Thoughts:** 📄 Java Basics Take #1 #100DaysOfCode R2D36
+**Thoughts:** 1⃣ Java Basics Take #1 #100DaysOfCode R2D36 1⃣
 
 **Link to work:** [[EN] Java™ Platform, Standard Edition 7 API Specification](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
 
