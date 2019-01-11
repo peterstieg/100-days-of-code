@@ -1,3 +1,16 @@
+### [Day 38](https://twitter.com/peterstieg/status/1083590729899933696): January 11th, 2018
+
+**Today's Progress:** Finally made it! I am able to create a "random wait time" & access the value.
+
+Still wondering why 
+1, Private variables cannot be declared in Main classes
+2, system.out.println() needs to be in a Main class
+
+**Thoughts:** 3⃣ Java Basics Take #3 #100DaysOfCode R2D38 3⃣
+
+**Link to work:** [[EN] Human Reaction Time](https://www.humanbenchmark.com/tests/reactiontime)
+
+---
 
 ### [Day 37](https://twitter.com/peterstieg/status/1083226987500654593): January 10th, 2018
 
