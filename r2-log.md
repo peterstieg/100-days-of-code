@@ -1,3 +1,14 @@
+### [Day 39](https://twitter.com/peterstieg/status/1084485347818508288): January 13th, 2019
+
+**Today's Progress:** 1⃣ PHP Basics Take #1 #100DaysOfCode R2D39 1⃣
+Worked through basic PHP concepts like comments, echo, variables, $_GET, $_POST, IF functions, var_dump() and strpos().
+
+**Thoughts:** 3⃣ Java Basics Take #3 #100DaysOfCode R2D38 3⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 38](https://twitter.com/peterstieg/status/1083590729899933696): January 11th, 2018
 
 **Today's Progress:** Finally made it! I am able to create a "random wait time" & access the value.
@@ -32,7 +43,7 @@ Still wondering why
 
 ---
 
-### [Day 35](https://twitter.com/peterstieg/status/1082507230950424576): January 8th, 2018
+### [Day 35](https://twitter.com/peterstieg/status/1082507230950424576): January 8th, 2019
 
 **Today's Progress:** Still trying to wrap my head around basic Java concepts on the 33rd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
 
@@ -42,7 +53,7 @@ Still wondering why
 
 ---
 
-### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 7th, 2018
+### [Day 34](https://twitter.com/peterstieg/status/1082132407975903232): January 7th, 2019
 
 **Today's Progress:** 32nd day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/), [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy) and [JavaTPoint](https://www.javatpoint.com/apache-poi-excel-workbook).
 
@@ -52,7 +63,7 @@ Still wondering why
 
 ---
 
-### [Day 33](https://twitter.com/peterstieg/status/1081505828706897920): January 5th, 2018
+### [Day 33](https://twitter.com/peterstieg/status/1081505828706897920): January 5th, 2019
 
 **Today's Progress:** Basic PHP scripting and Bots with of [@vflorusso](https://github.com/vflorusso) and Azure Bot Service.
 
@@ -62,7 +73,7 @@ Still wondering why
 
 ---
 
-### [Day 32](https://twitter.com/peterstieg/status/1081041466019991552): January 4th, 2018
+### [Day 32](https://twitter.com/peterstieg/status/1081041466019991552): January 4th, 2019
 
 **Today's Progress:** 31st day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
 
@@ -72,7 +83,7 @@ Still wondering why
 
 ---
 
-### [Day 31](https://twitter.com/peterstieg/status/1080713094748348417): January 3rd, 2018
+### [Day 31](https://twitter.com/peterstieg/status/1080713094748348417): January 3rd, 2019
 
 **Today's Progress:** 30th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
 
@@ -82,7 +93,7 @@ Still wondering why
 
 ---
 
-### [Day 30](https://twitter.com/peterstieg/status/1080496474482491393): January 2nd, 2018
+### [Day 30](https://twitter.com/peterstieg/status/1080496474482491393): January 2nd, 2019
 
 **Today's Progress:** 29th day of [test automation](https://en.wikipedia.org/wiki/Test_automation) with [Eclipse](https://www.eclipse.org/), [Selenium WebDriver](https://www.seleniumhq.org/), [TestNG](https://testng.org/doc/index.html) and [Apache Maven](https://mvnrepository.com/) and [Onur Baskirt's](onurbaskirt) [SW Test Academy](https://twitter.com/swtestacademy).
 
