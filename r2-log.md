@@ -1,7 +1,16 @@
+### [Day 40](): January 14th, 2019
+
+**Today's Progress:** Loved working through more basic PHP concepts like comparators, operators, empty() and sha1().
+
+**Thoughts:**  2⃣ PHP Basics Take #2 #100DaysOfCode R2D40 2⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 39](https://twitter.com/peterstieg/status/1084485347818508288): January 13th, 2019
 
-**Today's Progress:** 1⃣ PHP Basics Take #1 #100DaysOfCode R2D39 1⃣
-Worked through basic PHP concepts like comments, echo, variables, $_GET, $_POST, IF functions, var_dump() and strpos().
+**Today's Progress:** Worked through basic PHP concepts like comments, echo, variables, $_GET, $_POST, IF functions, var_dump() and strpos().
 
 **Thoughts:** 3⃣ Java Basics Take #3 #100DaysOfCode R2D38 3⃣
 
