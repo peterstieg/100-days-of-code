@@ -1,4 +1,14 @@
-### [Day 40](): January 14th, 2019
+### [Day 41](https://twitter.com/peterstieg/status/1085047691258839040): January 15th, 2019
+
+**Today's Progress:** Still loving to read through basic #PHP concepts like loops and arrays and comparing the code to Java.
+
+**Thoughts:**  3⃣ PHP Basics Take #3 #100DaysOfCode R2D41 3⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
+### [Day 40](https://twitter.com/peterstieg/status/1084677797262577664): January 14th, 2019
 
 **Today's Progress:** Loved working through more basic PHP concepts like comparators, operators, empty() and sha1().
 
