@@ -1,3 +1,13 @@
+### [Day 42](https://twitter.com/peterstieg/status/1085401388304265217): January 16th, 2019
+
+**Today's Progress:** Spent an intense morning with all "sorts" of arrays, associative and not, in #PHP.
+
+**Thoughts:**  4⃣ PHP Basics Take #3 #100DaysOfCode R2D42 4⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/php-array/)
+
+---
+
 ### [Day 41](https://twitter.com/peterstieg/status/1085047691258839040): January 15th, 2019
 
 **Today's Progress:** Still loving to read through basic #PHP concepts like loops and arrays and comparing the code to Java.
