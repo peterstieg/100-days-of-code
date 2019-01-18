@@ -1,10 +1,25 @@
+### [Day 43](): January 18th, 2019
+
+**Today's Progress:** It is nice to get things like
+file_gets_contents(), 
+file_puts_contents(),
+nl2br(),
+rand(),
+file().
+
+**Thoughts:** 5⃣ PHP Basics Take #5 #100DaysOfCode R2D43 5⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 42](https://twitter.com/peterstieg/status/1085401388304265217): January 16th, 2019
 
 **Today's Progress:** Spent an intense morning with all "sorts" of arrays, associative and not, in #PHP.
 
 **Thoughts:**  4⃣ PHP Basics Take #3 #100DaysOfCode R2D42 4⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/php-array/)
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/)
 
 ---
 
@@ -14,7 +29,7 @@
 
 **Thoughts:**  3⃣ PHP Basics Take #3 #100DaysOfCode R2D41 3⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/)
 
 ---
 
