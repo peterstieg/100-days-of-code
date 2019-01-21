@@ -1,4 +1,14 @@
-### [Day 43](): January 18th, 2019
+### [Day 44](https://twitter.com/peterstieg/status/1087210733807509504): January 21st, 2019
+
+**Today's Progress:** Working on a simple registration and login form to get a hold of file management in #PHP.
+
+**Thoughts:** 6⃣ PHP Basics Take #6 #100DaysOfCode R2D44 6⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
+### [Day 43](https://twitter.com/peterstieg/status/1086124799468941312): January 18th, 2019
 
 **Today's Progress:** It is nice to get things like
 file_gets_contents(), 
@@ -9,7 +19,7 @@ file().
 
 **Thoughts:** 5⃣ PHP Basics Take #5 #100DaysOfCode R2D43 5⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/)
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
 
 ---
 
@@ -19,7 +29,7 @@ file().
 
 **Thoughts:**  4⃣ PHP Basics Take #3 #100DaysOfCode R2D42 4⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial: Array](https://www.php-einfach.de/php-tutorial/)
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
 
 ---
 
@@ -29,7 +39,7 @@ file().
 
 **Thoughts:**  3⃣ PHP Basics Take #3 #100DaysOfCode R2D41 3⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/)
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
 
 ---
 
