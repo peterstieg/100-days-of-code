@@ -1,3 +1,13 @@
+### [Day 45](): January 28th, 2019
+
+**Today's Progress:** Still working on a simple registration and login form to get a hold of file management in #PHP. Committed basic errors such as imploding and exploding with different delimiters, querying the wrong array index.
+
+**Thoughts:** 7⃣ PHP Basics Take #7 #100DaysOfCode R2D45 7⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 44](https://twitter.com/peterstieg/status/1087210733807509504): January 21st, 2019
 
 **Today's Progress:** Working on a simple registration and login form to get a hold of file management in #PHP.
