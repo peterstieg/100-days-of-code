@@ -1,3 +1,13 @@
+### [Day 46](https://twitter.com/peterstieg/status/1090713797998886917): January 30th, 2019
+
+**Today's Progress:** Spent an evening with the #PHP functions strpos, substr and str_replace as well as their counterparts in Java and Google Sheets.
+
+**Thoughts:** 9⃣ PHP Basics Take #9 #100DaysOfCode R2D47 9⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 46](https://twitter.com/peterstieg/status/1090351544300638208): January 29th, 2019
 
 **Today's Progress:** Managed to complete a simple registration and login in #PHP. Continued with timestamps, dates and formatting. Still writing more comments than code, 🙃
