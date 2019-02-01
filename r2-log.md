@@ -1,4 +1,14 @@
-### [Day 47](https://twitter.com/peterstieg/status/1090849706740252673): January 31st, 2019
+### [Day 49](https://twitter.com/peterstieg/status/1091213374158000129): February 1st, 2019
+
+**Today's Progress:** Another morning #coding session with #PHP functions, optional parameters, include() and require().
+
+**Thoughts:** 1⃣1⃣ PHP Basics Take #11 #100DaysOfCode R2D49 1⃣1⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
+### [Day 48](https://twitter.com/peterstieg/status/1090849706740252673): January 31st, 2019
 
 **Today's Progress:** Lovely morning coding session with PHP sessions and a quick look into user-defined functions.
 
@@ -8,7 +18,7 @@
 
 ---
 
-### [Day 46](https://twitter.com/peterstieg/status/1090713797998886917): January 30th, 2019
+### [Day 47](https://twitter.com/peterstieg/status/1090713797998886917): January 30th, 2019
 
 **Today's Progress:** Spent an evening with the PHP functions strpos, substr and str_replace as well as their counterparts in Java and Google Sheets.
 
