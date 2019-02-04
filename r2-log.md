@@ -1,3 +1,13 @@
+### [Day 50](https://twitter.com/peterstieg/status/1092300530808967170): February 2nd, 2019
+
+**Today's Progress:** 1st crossover #coding and training session comparing #PHP functions with their #Java counterparts and possible implementation in Google Docs and Sheets.
+
+**Thoughts:** 1⃣2⃣ PHP Basics Take #12 #100DaysOfCode R2D50 1⃣2⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 49](https://twitter.com/peterstieg/status/1091213374158000129): February 1st, 2019
 
 **Today's Progress:** Another morning #coding session with #PHP functions, optional parameters, include() and require().
