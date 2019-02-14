@@ -1,3 +1,13 @@
+### [Day 53](https://twitter.com/peterstieg/status/1095933392166768641): February 14th, 2019
+
+**Today's Progress:** Completed a script for secure file uploads in #PHP and had a look classes, cookies and constants.
+
+**Thoughts:** 1⃣5⃣ PHP Basics Take #15 #100DaysOfCode R2D53 1⃣5⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 52](https://twitter.com/peterstieg/status/1095563396630675457): February 13th, 2019
 
 **Today's Progress:** Finished unsecure file uploads in PHP and went on a deep-dived into associative arrays, foreach-loops and pathinfo. Can't wait to finish this phase, learn the basics of #MySQL and start with #D3JS.
