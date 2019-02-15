@@ -1,3 +1,13 @@
+### [Day 54](https://twitter.com/peterstieg/status/1096288040123801600): February 15th, 2019
+
+**Today's Progress:** Completed Niels Reimers basic #PHP tutorial after 16 #coding sessions and creating 83 example files. I partly compared the code to #Java and, if applicable, looked for similar solutions in Google Sheets.
+
+**Thoughts:** 1⃣6⃣ PHP Basics Take #16 #100DaysOfCode R2D54 1⃣6⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 53](https://twitter.com/peterstieg/status/1095933392166768641): February 14th, 2019
 
 **Today's Progress:** Completed a script for secure file uploads in #PHP and had a look classes, cookies and constants.
