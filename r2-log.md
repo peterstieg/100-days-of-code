@@ -1,3 +1,13 @@
+### [Day 55](https://twitter.com/peterstieg/status/1096884507481989120): February 16th, 2019
+
+**Today's Progress:** Finally started a basic MySQL tutorial on Nils Reimers webpage and covered easy topics such as collation and engines, creating databases and tables, inserting and displaying data via the PHP PDO interface.
+
+**Thoughts:** 1⃣ MySQL Take #1 #100DaysOfCode R2D55 1⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+
+---
+
 ### [Day 54](https://twitter.com/peterstieg/status/1096288040123801600): February 15th, 2019
 
 **Today's Progress:** Completed Niels Reimers basic #PHP tutorial after 16 #coding sessions and creating 83 example files. I partly compared the code to #Java and, if applicable, looked for similar solutions in Google Sheets.
