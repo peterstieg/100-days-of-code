@@ -1,10 +1,20 @@
+### [Day 56](): February 18th, 2019
+
+**Today's Progress:** Continued with basic MySQL tutorial on Nils Reimers webpage and covered beginner topics SELECT WHERE ORDER LIMIT queries and prepared statements.
+
+**Thoughts:** 2⃣ MySQL Take #2 #100DaysOfCode R2D56 2⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - MySQL Tutorial](https://www.php-einfach.de/mysql-tutorial/)
+
+---
+
 ### [Day 55](https://twitter.com/peterstieg/status/1096884507481989120): February 16th, 2019
 
 **Today's Progress:** Finally started a basic MySQL tutorial on Nils Reimers webpage and covered easy topics such as collation and engines, creating databases and tables, inserting and displaying data via the PHP PDO interface.
 
 **Thoughts:** 1⃣ MySQL Take #1 #100DaysOfCode R2D55 1⃣
 
-**Link to work:** [[DE] PHP-Einfach.de - PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+**Link to work:** [[DE] PHP-Einfach.de - MySQL Tutorial](https://www.php-einfach.de/mysql-tutorial/)
 
 ---
 
