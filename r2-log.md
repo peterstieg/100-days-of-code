@@ -1,4 +1,14 @@
-### [Day 56](): February 18th, 2019
+### [Day 57](https://twitter.com/peterstieg/status/1097955356100177920): February 18th, 2019
+
+**Today's Progress:** Got stuck by the error message SQLSTATE[HY000] [2002] while attempting to access an online database. Accessing local databases that run on XAMPP were easily accessible. Aargh, learning curve, here I come.
+
+**Thoughts:** 3⃣ MySQL Take #3 #100DaysOfCode R2D57 2⃣
+
+**Link to work:** [[DE] PHP-Einfach.de - MySQL Tutorial](https://www.php-einfach.de/mysql-tutorial/)
+
+---
+
+### [Day 56](https://twitter.com/peterstieg/status/1097593046991028224): February 18th, 2019
 
 **Today's Progress:** Continued with basic MySQL tutorial on Nils Reimers webpage and covered beginner topics SELECT WHERE ORDER LIMIT queries and prepared statements.
 
